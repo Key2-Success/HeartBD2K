@@ -17,6 +17,7 @@ The resulting website includes the following tabs
 I have included screenshots of the website of each tab in the `screenshots` folder.
 
 **Future Work**
+This project is unfortunately not yet complete, however still functional. This is, essentially, my to-do list:
 - find hclust or other way of measuring distance for heatmap
 - learn if you can figure out how long a code will run before it's done executing
 - compare multiple 10k (for RN) and 1k (for MH) runs to see if terms are consistent/sub is representative
