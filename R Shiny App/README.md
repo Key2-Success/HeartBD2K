@@ -1,9 +1,9 @@
-### **R Shiny App**
+## **R Shiny App**
 
-**Background**
+### **Background**
 This project was essentially a culmination of my summer internship. This site allows a clinician, for instance, to compare two different demographics and find which drugs (RN terms) and MeSH terms (which include phrases such as diseases, demographics, and symptoms) are most statistically distinct between each demographic. The purpose of this project was to centralize all of the back-end analyzing, instead of manually running scrips for each demographic of interest.
 
-**Content**
+### **Content**
 The resulting website includes the following tabs
 - *Home* to input the two demographics as well as more information about the project
 - *Heat Maps* to show which MesH and RN terms are statistically distinct between each demographic and by how much
@@ -13,7 +13,7 @@ The resulting website includes the following tabs
 
 I have included screenshots of the website of each tab in the `screenshots` folder.
 
-**Future Work**
+### **Future Work**
 This project is unfortunately not yet complete, however still functional. This is, essentially, my to-do list:
 - find hclust or other way of measuring distance for heatmap
 - learn if you can figure out how long a code will run before it's done executing
