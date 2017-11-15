@@ -1,0 +1,3151 @@
+﻿LID - 10.1111/ajd.12656 [doi]
+STAT- Publisher
+DEP - 20170519
+CI  - (c) 2017 The Australasian College of Dermatologists.
+DA  - 20170519
+AID - 10.1111/ajd.12656 [doi]
+CRDT- 2017/05/20 06:00
+DP  - 2017 May 19
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Oumerzouk, Jawad
+FAU - Abida, Nabil
+FAU - Zaimi, Achraf
+FAU - Znati, Kaoutar
+FAU - Zbir, El Mehdi
+FAU - Bourazza, Ahmed
+JT  - The Australasian journal of dermatology
+LR  - 20170519
+TI  - Severe pemphigoid gestationis associated with acute disseminated encephalomyelitis
+      in the setting of a systemic disorder.
+PL  - Australia
+TA  - Australas J Dermatol
+JID - 0135232
+AB  - Pemphigoid gestationis is a skin-specific autoimmune disorder that can
+      sometimes present as the cutaneous manifestation of a multiorgan disease
+      due to potentially common pathogenic mechanisms. We report a severe form
+      of pemphigoid gestationis in a 32-year-old primigravida woman, who presented
+      at 22 weeks of gestation with headaches and blurred vision, later developing
+      encephalitis, intrauterine fetal demise and dilated cardiomyopathy.
+AD  - Department of Neurology, Mohammed V. Rabat Military Hospital, Rabat, Morocco. Department of Neurology, Mohammed V. Rabat Military Hospital, Rabat, Morocco. Department of Cardiology, Mohammed V. Rabat Military Hospital, Rabat, Morocco. Department of Pathology, Ibn Sina Hospital, Rabat, Morocco. Department of Cardiology, Mohammed V. Rabat Military Hospital, Rabat, Morocco. Department of Neurology, Mohammed V. Rabat Military Hospital, Rabat, Morocco.
+PHST- 2016/11/15 [received]
+PHST- 2017/02/18 [accepted]
+IS  - 1440-0960 (Electronic) 0004-8380 (Linking)
+AU  - Oumerzouk J
+AU  - Abida N
+AU  - Zaimi A
+AU  - Znati K
+AU  - Zbir EM
+AU  - Bourazza A
+MHDA- 2017/05/20 06:00
+AUID- ORCID: http://orcid.org/0000-0003-2536-2422
+OTO - NOTNLM
+EDAT- 2017/05/20 06:00
+SO  - Australas J Dermatol. 2017 May 19. doi: 10.1111/ajd.12656.
+PMID- 28524368
+OT  - cardiomyopathy
+OT  - encephalitis
+OT  - gestationis
+OT  - pemphigoid
+PST - aheadofprint
+
+LID - 10.1111/jmp.12273 [doi]
+STAT- Publisher
+DEP - 20170519
+CI  - (c) 2017 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+DA  - 20170519
+AID - 10.1111/jmp.12273 [doi]
+CRDT- 2017/05/20 06:00
+DP  - 2017 May 19
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - van Zijll Langhout, Martine
+FAU - Wolters, Marno
+FAU - Horvath, Katalin M
+FAU - Thiesbrummel, Harold
+FAU - Smits, Paul
+FAU - van Bolhuis, Hester
+FAU - van der Hulst, Victor
+FAU - Riezebos, Robert
+JT  - Journal of medical primatology
+LR  - 20170519
+TI  - Clinical signs, diagnostics and successful treatment of a myocarditis
+      in an adult chimpanzee (Pan troglodytes).
+PL  - Denmark
+TA  - J Med Primatol
+JID - 0320626
+AB  - A chimpanzee (Pan troglodytes) was presented with lethargic behaviour.
+      Echocardiography and abnormal cardiac and inflammatory biomarkers revealed
+      a myocarditis. The animal fully recovered after prolonged treatment with
+      losartan and carvedilol. This is the first report of the diagnosis and
+      successful treatment of myocarditis in this species.
+AD  - ARTIS Amsterdam Royal Zoo, Plantage Kerklaan 38-40, Amsterdam, The Netherlands. AAP Rescue Centre for Exotic Animals, Almere, The Netherlands. ARTIS Amsterdam Royal Zoo, Plantage Kerklaan 38-40, Amsterdam, The Netherlands. AAP Rescue Centre for Exotic Animals, Almere, The Netherlands. ARTIS Amsterdam Royal Zoo, Plantage Kerklaan 38-40, Amsterdam, The Netherlands. Microbiological Laboratory, OLVG, Amsterdam, The Netherlands. Laboratory for molecular diagnostics, MC Slotervaart, Amsterdam, The Netherlands. AAP Rescue Centre for Exotic Animals, Almere, The Netherlands. Radiology Department, OLVG, Amsterdam, The Netherlands. Department of Cardiology, Heartcenter, OLVG, Amsterdam, The Netherlands.
+PHST- 2017/04/16 [accepted]
+IS  - 1600-0684 (Electronic) 0047-2565 (Linking)
+AU  - van Zijll Langhout M
+AU  - Wolters M
+AU  - Horvath KM
+AU  - Thiesbrummel H
+AU  - Smits P
+AU  - van Bolhuis H
+AU  - van der Hulst V
+AU  - Riezebos R
+MHDA- 2017/05/20 06:00
+AUID- ORCID: http://orcid.org/0000-0001-6924-102X
+OTO - NOTNLM
+EDAT- 2017/05/20 06:00
+SO  - J Med Primatol. 2017 May 19. doi: 10.1111/jmp.12273.
+PMID- 28523858
+OT  - Pan troglodytes
+OT  - C-reactive protein
+OT  - echocardiography
+OT  - hs-troponin T
+OT  - myocarditis
+PST - aheadofprint
+
+LID - 10.1111/echo.13561 [doi]
+STAT- Publisher
+DEP - 20170518
+CI  - (c) 2017, Wiley Periodicals, Inc.
+DA  - 20170518
+AID - 10.1111/echo.13561 [doi]
+CRDT- 2017/05/19 06:00
+DP  - 2017 May 18
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Ruivo, Catarina
+FAU - Guardado, Joana
+FAU - Montenegro Sa, Fernando
+FAU - Saraiva, Fatima
+FAU - Antunes, Alexandre
+FAU - Correia, Joana
+FAU - Morais, Joao
+JT  - Echocardiography (Mount Kisco, N.Y.)
+LR  - 20170518
+TI  - Gerbode defect and multivalvular dysfunction: Complex complications in
+      adult congenital heart disease.
+PL  - United States
+TA  - Echocardiography
+JID - 8511187
+AB  - We report a clinical case of a 40-year-old male with surgically corrected
+      congenital heart disease (CHD) 10 years earlier: closure of ostium primum,
+      mitral annuloplasty, and aortic valve and root surgery. The patient was
+      admitted with acute heart failure. Transesophageal echocardiography (TEE)
+      revealed a dysmorphic and severely incompetent aortic valve, a partial
+      tear of the mitral valve cleft repair and annuloplasty ring dehiscence.
+      A true left ventricular-to-right atrial shunt confirmed a direct Gerbode
+      defect. The authors aim to discuss the diagnostic challenge of adult CHD,
+      namely the key role of TEE on septal defects and valve regurgitations
+      description.
+AD  - Cardiology Department, Leiria Hospital Center, Leiria, Portugal. Cardiology Department, Leiria Hospital Center, Leiria, Portugal. Cardiology Department, Leiria Hospital Center, Leiria, Portugal. Cardiology Department, Leiria Hospital Center, Leiria, Portugal. Cardiology Department, Leiria Hospital Center, Leiria, Portugal. Cardiology Department, Leiria Hospital Center, Leiria, Portugal. Cardiology Department, Leiria Hospital Center, Leiria, Portugal.
+IS  - 1540-8175 (Electronic) 0742-2822 (Linking)
+AU  - Ruivo C
+AU  - Guardado J
+AU  - Montenegro Sa F
+AU  - Saraiva F
+AU  - Antunes A
+AU  - Correia J
+AU  - Morais J
+MHDA- 2017/05/19 06:00
+AUID- ORCID: http://orcid.org/0000-0002-9105-2409
+OTO - NOTNLM
+EDAT- 2017/05/19 06:00
+SO  - Echocardiography. 2017 May 18. doi: 10.1111/echo.13561.
+PMID- 28517030
+OT  - Gerbode defect
+OT  - aortic and mitral regurgitation
+OT  - cleft in mitral valve
+OT  - congenital heart disease
+PST - aheadofprint
+
+LID - 10.1002/phar.1951 [doi]
+STAT- Publisher
+DEP - 20170517
+CI  - This article is protected by copyright. All rights reserved.
+DA  - 20170517
+AID - 10.1002/phar.1951 [doi]
+CRDT- 2017/05/18 06:00
+DP  - 2017 May 17
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Thurber, Kristina M
+FAU - Williams, Breann M
+FAU - Bates, Ruth E
+FAU - Frantz, Robert P
+JT  - Pharmacotherapy
+LR  - 20170517
+TI  - Transition of Intravenous Treprostinil to Oral Therapy in a Patient with
+      Functional Class IV Chronic Thromboembolic Pulmonary Hypertension.
+PL  - United States
+TA  - Pharmacotherapy
+JID - 8111305
+AB  - Chronic thromboembolic pulmonary hypertension (CTEPH) occurs when pulmonary
+      emboli fail to resolve with anticoagulation. For patients with inoperable
+      or residual CTEPH, riociguat is currently the only therapy approved by
+      the United States Food and Drug Administration. However, some patients
+      with CTEPH may require therapy beyond riociguat, such as intravenous prostacyclins,
+      which can present significant administration challenges in patients with
+      complex comorbid conditions. We describe a 42-year-old man with T12 paraplegia
+      complicated by CTEPH (functional class IV with substantial right ventricular
+      dysfunction) and severe pressure ulcers. In order to facilitate goals
+      of care (hospital discharge to a skilled nursing facility where parenteral
+      prostanoids could not be administered), he underwent rapid transition
+      from intravenous treprostinil to oral selexipag in the form of a cross-taper
+      over 6 days. The patient required readmission due to worsening symptoms
+      and was transitioned back to intravenous treprostinil; he tolerated conversion
+      to oral treprostinil for approximately 4 months, but it was subsequently
+      discontinued due to nausea and modified goals of care. The patient eventually
+      succumbed to clinical deterioration after transition to hospice care 3
+      months later. To our knowledge, this is the first report to describe transition
+      from intravenous treprostinil to selexipag as well as conversion from
+      parenteral treprostinil to oral treprostinil in a patient with CTEPH and
+      illustrates the approaches to and potential issues with prostanoid transitions.
+      Additional observations are necessary to better understand the relative
+      roles of selexipag and oral treprostinil regarding comparative efficacy
+      and tolerability. This article is protected by copyright. All rights reserved.
+AD  - Hospital Pharmacy Services, Mayo Clinic, Rochester, Minnesota. Hospital Pharmacy Services, Mayo Clinic, Rochester, Minnesota. Hospital Internal Medicine, Mayo Clinic, Rochester, Minnesota. Division of Cardiovascular Diseases, Mayo Clinic, Rochester, Minnesota.
+IS  - 1875-9114 (Electronic) 0277-0008 (Linking)
+AU  - Thurber KM
+AU  - Williams BM
+AU  - Bates RE
+AU  - Frantz RP
+MHDA- 2017/05/18 06:00
+OTO - NOTNLM
+EDAT- 2017/05/18 06:00
+SO  - Pharmacotherapy. 2017 May 17. doi: 10.1002/phar.1951.
+PMID- 28513869
+OT  - pulmonary hypertension
+OT  - selexipag
+OT  - treprostinil
+PST - aheadofprint
+
+LID - 10.1111/petr.12937 [doi]
+STAT- Publisher
+DEP - 20170514
+CI  - (c) 2017 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+DA  - 20170515
+AID - 10.1111/petr.12937 [doi]
+CRDT- 2017/05/16 06:00
+DP  - 2017 May 14
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - McEachern, William
+FAU - Godown, Justin
+FAU - Dodd, Debra A
+FAU - Dipchand, Anne I
+FAU - Conway, Jennifer L
+FAU - Wilson, Gregory J
+FAU - Hoffman, Robert D
+JT  - Pediatric transplantation
+LR  - 20170515
+TI  - Sudden death in a pediatric heart transplant recipient with peripheral
+      eosinophilia and eosinophilic myocardial infiltrates.
+PL  - Denmark
+TA  - Pediatr Transplant
+JID - 9802574
+AB  - Eosinophilia has been rarely reported in pediatric heart transplant recipients
+      and has been suggested to play a role in graft rejection. We report a
+      case of a young female patient with peripheral blood eosinophilia who
+      died suddenly 2 years following ABO-incompatible heart transplantation.
+      She was found at autopsy to have myocardial infiltration of not only T-lymphocytes
+      and macrophages expected in acute cellular rejection but also of eosinophils,
+      B-lymphocytes, and plasma cells indicating myocarditis.
+AD  - Department of Pediatrics, Monroe Carell Jr. Children's Hospital at Vanderbilt, Nashville, TN, USA. Division of Pediatric Cardiology, Monroe Carell Jr. Children's Hospital at Vanderbilt, Nashville, TN, USA. Division of Pediatric Cardiology, Monroe Carell Jr. Children's Hospital at Vanderbilt, Nashville, TN, USA. Department of Pediatrics, Labatt Family Heart Centre, University of Toronto, The Hospital for Sick Children, Toronto, ON, Canada. University of Alberta, Stollery Children's Hospital, Edmonton, AB, Canada. Division of Pathology, University of Toronto, The Hospital for Sick Children, Toronto, ON, Canada. Department of Pathology, Microbiology, and Immunology, Vanderbilt University School of Medicine, Nashville, TN, USA.
+PHST- 2017/03/30 [accepted]
+IS  - 1399-3046 (Electronic) 1397-3142 (Linking)
+AU  - McEachern W
+AU  - Godown J
+AU  - Dodd DA
+AU  - Dipchand AI
+AU  - Conway JL
+AU  - Wilson GJ
+AU  - Hoffman RD
+MHDA- 2017/05/16 06:00
+AUID- ORCID: http://orcid.org/0000-0001-6863-7188
+OTO - NOTNLM
+EDAT- 2017/05/16 06:00
+SO  - Pediatr Transplant. 2017 May 14. doi: 10.1111/petr.12937.
+PMID- 28504342
+OT  - ABO-incompatible
+OT  - eosinophilia
+OT  - myocarditis
+OT  - pediatric heart transplant
+OT  - transplant rejection
+PST - aheadofprint
+
+LID - 10.20344/amp.7523 [doi]
+STAT- In-Process
+IP  - 1
+DEP - 20170131
+DA  - 20170514
+CRDT- 2017/05/15 06:00
+DP  - 2017 Jan 31
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Costa, Andreia
+FAU - Marques-Matos, Claudia
+FAU - Reis, Carina
+FAU - Carvalho, Marta
+FAU - Pinto, Madalena
+JT  - Acta medica portuguesa
+LR  - 20170514
+PG  - 77-79
+TI  - Behavior Changes and Gait Unsteadiness: The Value of Imaging and Prompt
+      Neurosurgical Intervention.
+PL  - Portugal
+TA  - Acta Med Port
+JID - 7906803
+AB  - Cavernous angiomas are central nervous system malformations. Most common
+      manifestations are seizures and acute focal neurological deficits. We
+      present a case report of a seventy-one year-old man with a two-month history
+      of behavior changes, attention deficit and indifference followed by gait
+      unsteadiness. Neuropsychological evaluation showed severe cognitive impairment
+      and executive dysfunction. Head computed tomography depicted a supraventricular
+      hydrocephaly. Magnetic resonance imaging revealed a small hemorrhage,
+      contiguous to a mesencephalic cavernous angioma, obstructing the Sylvius
+      aqueduct, causing secondary hydrocephalus. Four months after endoscopic
+      ventriculocisternostomy, neuropsychological evaluation showed improvement
+      and the patient regained autonomy. Parenchyma cavernous angiomas causing
+      direct hemorrhage and subsequent obstruction of the Sylvian aqueduct are
+      uncommon. Sub-acute behavior and mental state abnormalities are rare first
+      manifestations of cavernous angioma and requires high clinical suspicion
+      for its correct diagnosis. Magnetic resonance imaging evaluation is crucial
+      in the detection of such patients as prompt neurosurgical intervention
+      may substantially improve cognitive function.
+AD  - Neurology Department. Centro Hospitalar Sao Joao. Porto. Portugal.; Department of Clinical Neurosciences and Mental Health. Faculty of Medicine. University of Porto. Porto. Portugal. Neurology Department. Centro Hospitalar Sao Joao. Porto. Portugal; Department of Clinical Neurosciences and Mental Health. Faculty of Medicine. University of Porto. Porto. Portugal. Neuroradiology Department. Centro Hospitalar Sao Joao. Porto. Portugal. Neurology Department. Centro Hospitalar Sao Joao. Porto. Portugal; Department of Clinical Neurosciences and Mental Health. Faculty of Medicine. University of Porto. Porto. Portugal. Neurology Department. Centro Hospitalar Sao Joao. Porto. Portugal.
+VI  - 30
+IS  - 1646-0758 (Electronic) 0870-399X (Linking)
+AU  - Costa A
+AU  - Marques-Matos C
+AU  - Reis C
+AU  - Carvalho M
+AU  - Pinto M
+MHDA- 2017/05/16 06:00
+PHST- 2016/02/15 [received]
+PHST- 2016/07/18 [accepted]
+OTO - NOTNLM
+EDAT- 2017/05/16 06:00
+SO  - Acta Med Port. 2017 Jan 31;30(1):77-79. doi: 10.20344/amp.7523. Epub 2017 Jan 31.
+PMID- 28501042
+OT  - Cognition Disorders
+OT  - Gait Disorders, Neurologic
+OT  - Hemangioma, Cavernous
+OT  - Magnetic Resonance Imaging
+OT  - Neurosurgical Procedures
+OT  - Tomography, X-Ray Computed
+OT  - Ventriculostomy
+PST - ppublish
+
+STAT- MEDLINE
+IP  - 1455
+DEP - 20170512
+DA  - 20170511
+COI - Nil.
+FAU - Carroll, Richard
+FAU - Gould, Alana
+FAU - Feltham, Joe
+FAU - Harper, Simon
+DP  - 2017 May 12
+OWN - NLM
+PT  - Case Reports
+PT  - Journal Article
+LA  - eng
+CRDT- 2017/05/12 06:00
+DCOM- 20170518
+JT  - The New Zealand medical journal
+LR  - 20170518
+PG  - 129-132
+TI  - A case of confirmed primary hyperaldosteronism diagnosed despite normal
+      screening investigations.
+RN  - 4964P6T9RB (Aldosterone)
+RN  - EC 3.4.23.15 (Renin)
+RN  - RWP5GA015D (Potassium)
+PL  - New Zealand
+TA  - N Z Med J
+JID - 0401067
+AB  - Primary hyperaldosteronism is a common cause of hypertension in the adult
+      population. We report a case of histologically and biochemically confirmed
+      hyperaldosteronism related to an adrenal adenoma, where initial screening
+      and biochemical tests were potentially misleading. The case highlights
+      the importance of clinical suspicion in the current diagnostic approach
+      to primary hyperaldosteronism.
+AD  - Endocrine, Diabetes and Research Centre, Wellington Regional Hospital, Wellington. Endocrine, Diabetes and Research Centre, Wellington Regional Hospital, Wellington. Department of Radiology, Wellington Regional Hospital, Wellington. Department of Surgery, Wellington Regional Hospital, Newtown, Wellington.
+VI  - 130
+IS  - 1175-8716 (Electronic) 0028-8446 (Linking)
+AU  - Carroll R
+AU  - Gould A
+AU  - Feltham J
+AU  - Harper S
+MHDA- 2017/05/19 06:00
+MH  - Adrenal Cortex Neoplasms/*diagnostic imaging/pathology/surgery
+MH  - Adrenocortical Adenoma/*diagnostic imaging/pathology/surgery
+MH  - Aldosterone/blood
+MH  - Humans
+MH  - Hyperaldosteronism/*complications
+MH  - Hypertension/*etiology
+MH  - Male
+MH  - Middle Aged
+MH  - Potassium/blood
+MH  - Renin/blood
+MH  - Tomography, X-Ray Computed
+EDAT- 2017/05/12 06:00
+SO  - N Z Med J. 2017 May 12;130(1455):129-132.
+SB  - IM
+PMID- 28494487
+OT  - ICD10CM:I10-I15
+OT  - ICD10CM:E26.01
+OT  - ICD10CM:C74.0
+OT  - ICD10CM:E26.9
+PST - epublish
+
+LID - 10.1002/jcu.22498 [doi]
+STAT- Publisher
+DEP - 20170511
+CI  - (c) 2017 Wiley Periodicals, Inc.
+DA  - 20170511
+AID - 10.1002/jcu.22498 [doi]
+CRDT- 2017/05/12 06:00
+DP  - 2017 May 11
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Nemes, Attila
+FAU - Szanto, Gyula
+FAU - Domsik, Peter
+FAU - Kormanyos, Arpad
+FAU - Kalapos, Anita
+FAU - Ambrus, Nora
+FAU - Forster, Tamas
+JT  - Journal of clinical ultrasound : JCU
+LR  - 20170511
+TI  - Change of left ventricular "rigid body rotation" during dipyridamole-induced
+      vasodilation: A case from the three-dimensional speckle tracking echocardiographic
+      MAGYAR-Stress Study.
+PL  - United States
+TA  - J Clin Ultrasound
+JID - 0401663
+AB  - A patient with previous coronary stenting presented with stable angina
+      and positive exercise treadmill test. Echocardiography with three-dimensional
+      speckle-tracking demonstrated left ventricular rigid body rotation (near
+      absence of left ventricular twist), whose characteristics changed dramatically
+      during dipyridamole-induced vasodilatation. (c) 2017 Wiley Periodicals,
+      Inc. J Clin Ultrasound, 2017.
+AD  - 2nd Department of Medicine and Cardiology Centre, Medical Faculty, Albert Szent-Gyorgyi Clinical Center, University of Szeged, Szeged, Hungary. 2nd Department of Medicine and Cardiology Centre, Medical Faculty, Albert Szent-Gyorgyi Clinical Center, University of Szeged, Szeged, Hungary. 2nd Department of Medicine and Cardiology Centre, Medical Faculty, Albert Szent-Gyorgyi Clinical Center, University of Szeged, Szeged, Hungary. 2nd Department of Medicine and Cardiology Centre, Medical Faculty, Albert Szent-Gyorgyi Clinical Center, University of Szeged, Szeged, Hungary. 2nd Department of Medicine and Cardiology Centre, Medical Faculty, Albert Szent-Gyorgyi Clinical Center, University of Szeged, Szeged, Hungary. 2nd Department of Medicine and Cardiology Centre, Medical Faculty, Albert Szent-Gyorgyi Clinical Center, University of Szeged, Szeged, Hungary. 2nd Department of Medicine and Cardiology Centre, Medical Faculty, Albert Szent-Gyorgyi Clinical Center, University of Szeged, Szeged, Hungary.
+PHST- 2017/01/30 [received]
+PHST- 2017/03/28 [revised]
+PHST- 2017/04/07 [accepted]
+IS  - 1097-0096 (Electronic) 0091-2751 (Linking)
+AU  - Nemes A
+AU  - Szanto G
+AU  - Domsik P
+AU  - Kormanyos A
+AU  - Kalapos A
+AU  - Ambrus N
+AU  - Forster T
+MHDA- 2017/05/12 06:00
+AUID- ORCID: http://orcid.org/0000-0002-7570-6214
+OTO - NOTNLM
+EDAT- 2017/05/12 06:00
+SO  - J Clin Ultrasound. 2017 May 11. doi: 10.1002/jcu.22498.
+PMID- 28493475
+OT  - dipyridamole
+OT  - echocardiography
+OT  - left ventricular
+OT  - rotation
+OT  - stress
+OT  - three-dimensional speckle tracking
+PST - aheadofprint
+
+LID - 10.4103/neuroindia.NI_301_16 [doi]
+STAT- In-Data-Review
+IP  - 3
+JT  - Neurology India
+DA  - 20170510
+AID - ni_2017_65_3_566_205911 [pii]
+AID - 10.4103/neuroindia.NI_301_16 [doi]
+CRDT- 2017/05/11 06:00
+DP  - 2017 May-Jun
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Kumar, V R Roopesh
+FAU - Subramaniam, Sudhakar B
+FAU - Murugan, A B Gopala
+FAU - Bapu, K R Suresh
+LR  - 20170510
+PG  - 566-569
+TI  - Endovascular pulmonary artery inflatable balloon-induced hypotension:
+      A novel technique for clipping giant intracranial aneurysms.
+PL  - India
+TA  - Neurol India
+JID - 0042005
+AB  - Management of giant intracranial aneurysms presents unique challenges
+      to the neurosurgical team. Various techniques such as adenosine-induced
+      hypotension, rapid ventricular pacing, and inducing deep hypothermia are
+      described in the literature to effect circulatory arrest for the successful
+      obliteration of giant aneurysms. We describe a novel technique of induced
+      hypotension for clipping a giant aneurysm by using an inflatable balloon
+      across the main pulmonary artery with a successful outcome. This technique
+      has not been described earlier in the literature.
+AD  - Institutes of Neurosciences, SIMS Hospitals, Chennai, Tamil Nadu, India. Anaesthesia and Pain Services, SIMS Hospitals, Chennai, Tamil Nadu, India. Cardiac Sciences, SIMS Hospitals, Chennai, Tamil Nadu, India. Institutes of Neurosciences, SIMS Hospitals, Chennai, Tamil Nadu, India.
+VI  - 65
+IS  - 0028-3886 (Print) 0028-3886 (Linking)
+AU  - Kumar VRR
+AU  - Subramaniam SB
+AU  - Murugan ABG
+AU  - Bapu KRS
+MHDA- 2017/05/11 06:00
+EDAT- 2017/05/11 06:00
+SO  - Neurol India. 2017 May-Jun;65(3):566-569. doi: 10.4103/neuroindia.NI_301_16.
+PMID- 28488623
+PST - ppublish
+
+LID - 10.4103/lungindia.lungindia_342_16 [doi]
+STAT- In-Data-Review
+IP  - 3
+JT  - Lung India : official organ of Indian Chest Society
+DA  - 20170505
+AID - LungIndia_2017_34_3_273_205330 [pii]
+AID - 10.4103/lungindia.lungindia_342_16 [doi]
+CRDT- 2017/05/06 06:00
+DP  - 2017 May-Jun
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - James, Alana
+FAU - Veean, Satyam
+FAU - Keshavamurthy, Jayanth H
+FAU - Sharma, Gyanendra
+LR  - 20170505
+PG  - 273-274
+TI  - Fibrinolytic administration via EKOS catheter used in pulmonary embolism.
+PL  - India
+TA  - Lung India
+JID - 8405380
+AB  - A 69-year old bed-bound woman presented with chest pain and diaphoresis.
+      Diagnostic imaging led to the diagnosis of bilateral extensive pulmonary
+      emboli extending into all segmental branches. Tissue plasminogen activator
+      (tPA) was administered via 2 separate EKOS catheters. Repeat evaluation
+      after 33 hours revealed improvement of right ventricular size and function.
+      EKOS catheters are useful for administration of fibrinolytics in pulmonary
+      embolism.
+AD  - Department of Radiology, Medical College of Georgia, Augusta University, Augusta, GA 30912, USA. Department of Radiology, Medical College of Georgia, Augusta University, Augusta, GA 30912, USA. Department of Radiology, Medical College of Georgia, Augusta University, Augusta, GA 30912, USA. Department of Radiology, Medical College of Georgia, Augusta University, Augusta, GA 30912, USA.
+VI  - 34
+IS  - 0970-2113 (Print) 0970-2113 (Linking)
+AU  - James A
+AU  - Veean S
+AU  - Keshavamurthy JH
+AU  - Sharma G
+MHDA- 2017/05/06 06:00
+EDAT- 2017/05/06 06:00
+SO  - Lung India. 2017 May-Jun;34(3):273-274. doi: 10.4103/lungindia.lungindia_342_16.
+PMID- 28474655
+PST - ppublish
+
+LID - 10.4103/lungindia.lungindia_386_16 [doi]
+STAT- In-Data-Review
+IP  - 3
+JT  - Lung India : official organ of Indian Chest Society
+DA  - 20170505
+AID - LungIndia_2017_34_3_269_205332 [pii]
+AID - 10.4103/lungindia.lungindia_386_16 [doi]
+CRDT- 2017/05/06 06:00
+DP  - 2017 May-Jun
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Singh, Abhijeet
+FAU - Gupta, Ayush
+FAU - Suri, Jagdish Chander
+LR  - 20170505
+PG  - 269-272
+TI  - Pulmonary artery catheter-directed thrombolysis for intermediate high
+      risk acute pulmonary embolism.
+PL  - India
+TA  - Lung India
+JID - 8405380
+AB  - A case of 60-year-old male with acute pulmonary embolism without hypotension
+      but signs of right ventricular dysfunction and elevated cardiac biomarkers
+      is reported in this study. The patient comes under intermediate high-risk
+      category and was successfully thrombolysed with alteplase infused through
+      pulmonary artery catheter. Catheter-directed thrombolysis (CDT) can be
+      considered as much safer and effective alternative to systemic thrombolysis
+      in such patients with lower risk of bleeding. This novel bedside method
+      of pulmonary artery CDT with the advantage of no radiation exposure and
+      real time monitoring of pulmonary artery pressures as an end-point of
+      thrombolysis can be utilized in the near future.
+AD  - Department of Pulmonary, Critical Care and Sleep Medicine, VMMC and Safdarjung Hospital, New Delhi, India. Department of Pulmonary, Critical Care and Sleep Medicine, VMMC and Safdarjung Hospital, New Delhi, India. Department of Pulmonary, Critical Care and Sleep Medicine, VMMC and Safdarjung Hospital, New Delhi, India.
+VI  - 34
+IS  - 0970-2113 (Print) 0970-2113 (Linking)
+AU  - Singh A
+AU  - Gupta A
+AU  - Suri JC
+MHDA- 2017/05/06 06:00
+EDAT- 2017/05/06 06:00
+SO  - Lung India. 2017 May-Jun;34(3):269-272. doi: 10.4103/lungindia.lungindia_386_16.
+PMID- 28474654
+PST - ppublish
+
+STAT- In-Data-Review
+IP  - 4
+JT  - Revue medicale de Liege
+DA  - 20170504
+CRDT- 2017/05/05 06:00
+DP  - 2017 Apr
+OWN - NLM
+PT  - Case Reports
+PT  - English Abstract
+LA  - fre
+TT  - Le cas clinique du mois. Dissection isolee de l'artere mesenterique superieure.
+FAU - Leonard, M
+FAU - Courtois, A
+FAU - Defraigne, J-O
+FAU - Sakalihasan, N
+LR  - 20170504
+PG  - 175-180
+TI  - [Isolated spontaneous dissection of the superior mesenteric artery].
+PL  - Belgium
+TA  - Rev Med Liege
+JID - 0404317
+AB  - We report the case of a 57-year old man suffering from acute abdominal
+      cramps. Abdominal computed tomography (CT) scanner revealed an isolated
+      dissection of the superior mesenteric artery. The pain decreased within
+      a few days under conservative treatment and monitoring by angioscans showed
+      a stabilization of the dissection. This clinical case report is accompanied
+      by a literature review on this rare pathology.
+AD  - Universite de Liege. Service de Chirurgie Cardiovasculaire et Thoracique, CHU Liege, Site Sart Tilman, Liege, Belgique. Service de Chirurgie Cardiovasculaire et Thoracique, CHU Liege, Site Sart Tilman, Liege, Belgique. Service de Chirurgie Cardiovasculaire et Thoracique, CHU Liege, Site Sart Tilman, Liege, Belgique.
+VI  - 72
+IS  - 0370-629X (Print) 0370-629X (Linking)
+AU  - Leonard M
+AU  - Courtois A
+AU  - Defraigne JO
+AU  - Sakalihasan N
+MHDA- 2017/05/05 06:00
+OTO - NOTNLM
+EDAT- 2017/05/05 06:00
+SO  - Rev Med Liege. 2017 Apr;72(4):175-180.
+PMID- 28471548
+OT  - Conservative treatment
+OT  - Superior mesenteric artery
+OT  - Dissection
+PST - ppublish
+
+LID - 10.1002/ccd.27117 [doi]
+STAT- Publisher
+DEP - 20170504
+CI  - (c) 2017 Wiley Periodicals, Inc.
+DA  - 20170504
+AID - 10.1002/ccd.27117 [doi]
+CRDT- 2017/05/05 06:00
+DP  - 2017 May 04
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Yadav, Pradeep K
+FAU - Wang, Dee Dee
+FAU - Eng, Marvin H
+FAU - O'Neill, William W
+JT  - Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography & Interventions
+LR  - 20170504
+TI  - Watchman in ascending aorta for systemic protection (WAASP): Novel use
+      of Watchman in ascending aorta for embolic protection-first in man.
+PL  - United States
+TA  - Catheter Cardiovasc Interv
+JID - 100884139
+AB  - We report two cases where left atrial appendage closure (LAA) with Watchman
+      was successfully performed despite presence of definite LAA thrombus.
+      Because there was the risk of thrombus dislodgement, we transiently placed
+      an additional Watchman device in the ascending aorta for embolic protection.
+      (c) 2017 Wiley Periodicals, Inc.
+AD  - Center for Structural Heart Disease, Division of Cardiology, Henry Ford Hospital, Detroit, Michigan. Center for Structural Heart Disease, Division of Cardiology, Henry Ford Hospital, Detroit, Michigan. Center for Structural Heart Disease, Division of Cardiology, Henry Ford Hospital, Detroit, Michigan. Center for Structural Heart Disease, Division of Cardiology, Henry Ford Hospital, Detroit, Michigan.
+PHST- 2017/01/03 [received]
+PHST- 2017/03/06 [revised]
+PHST- 2017/04/08 [accepted]
+IS  - 1522-726X (Electronic) 1522-1946 (Linking)
+AU  - Yadav PK
+AU  - Wang DD
+AU  - Eng MH
+AU  - O'Neill WW
+MHDA- 2017/05/05 06:00
+AUID- ORCID: http://orcid.org/0000-0003-1278-9136
+OTO - NOTNLM
+EDAT- 2017/05/05 06:00
+SO  - Catheter Cardiovasc Interv. 2017 May 4. doi: 10.1002/ccd.27117.
+PMID- 28471099
+OT  - closure
+OT  - embolic protection devices
+OT  - interventional devices/innovation
+OT  - left atrial appendage
+OT  - stroke
+OT  - structural heart disease intervention
+PST - aheadofprint
+
+LID - 10.1002/ccd.27090 [doi]
+STAT- Publisher
+DEP - 20170504
+CI  - (c) 2017 Wiley Periodicals, Inc.
+DA  - 20170504
+AID - 10.1002/ccd.27090 [doi]
+CRDT- 2017/05/05 06:00
+DP  - 2017 May 04
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Hensey, Mark
+FAU - Smyth, Elizabeth
+FAU - Gilroy, Elaine
+FAU - Galvin, Joseph
+JT  - Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography & Interventions
+LR  - 20170504
+TI  - The use of a novel ROX central arteriovenous fistula formation device
+      in a patient with severe drug-resistant hypertension and prior aortic
+      graft.
+PL  - United States
+TA  - Catheter Cardiovasc Interv
+JID - 100884139
+AB  - We report a case of the successful use of a central arteriovenous (cAV)
+      coupler device to treat severe drug-resistant primary hypertension in
+      a 46-year-old female. The device is inserted via a femoral approach to
+      create an ateriovenous fistula between the external iliac artery and vein
+      and has shown promise in the treatment of severe hypertension. The patient's
+      24-hr ambulatory blood pressure (ABP) pre device insertion on eleven anti-hypertensive
+      medications revealed a mean 24-hr ABP of 165/98 mm Hg. The insertion of
+      the cAV coupler resulted in a sustained anti-hypertensive effect nine
+      months post-procedure, with mean 24-hr ABP of 154/91 mm Hg on only two
+      anti-hypertensives. Her significant anti-hypertensive response may be
+      explained by the presence of an inelastic aortic graft that had been inserted
+      due to prior aortic dissection as it allowed the restoration of elasticity
+      in a previously inelastic arterial system. We believe that the ROX cAV
+      coupler device warrants further investigation. (c) 2017 Wiley Periodicals,
+      Inc.
+AD  - Department of Cardiology, Mater Misericordiae University Hospital, Dublin, Ireland. Department of Cardiology, Mater Misericordiae University Hospital, Dublin, Ireland. Department of Cardiology, Mater Misericordiae University Hospital, Dublin, Ireland. Department of Cardiology, Mater Misericordiae University Hospital, Dublin, Ireland.
+PHST- 2017/01/26 [received]
+PHST- 2017/03/25 [accepted]
+IS  - 1522-726X (Electronic) 1522-1946 (Linking)
+AU  - Hensey M
+AU  - Smyth E
+AU  - Gilroy E
+AU  - Galvin J
+MHDA- 2017/05/05 06:00
+AUID- ORCID: http://orcid.org/0000-0001-9270-6446
+OTO - NOTNLM
+EDAT- 2017/05/05 06:00
+SO  - Catheter Cardiovasc Interv. 2017 May 4. doi: 10.1002/ccd.27090.
+PMID- 28471088
+OT  - fistula-shunts
+OT  - hypertension
+OT  - interventional devices/innovation
+PST - aheadofprint
+
+LID - 10.1002/ccd.27115 [doi]
+STAT- Publisher
+DEP - 20170504
+CI  - (c) 2017 Wiley Periodicals, Inc.
+DA  - 20170504
+AID - 10.1002/ccd.27115 [doi]
+CRDT- 2017/05/05 06:00
+DP  - 2017 May 04
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Moiduddin, Nasser J
+FAU - Rios, Rodrigo
+FAU - El-Said, Howaida
+FAU - Moore, John W
+JT  - Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography & Interventions
+LR  - 20170504
+TI  - Stenting of the ascending aorta revisited.
+PL  - United States
+TA  - Catheter Cardiovasc Interv
+JID - 100884139
+AB  - Despite few institutions stenting the ascending aorta, it has been discouraged
+      because of the proximity of the aortic valve, the coronary artery orifices,
+      and the aortic arch branches. We describe a small case series of patients
+      having acquired stenosis of the ascending that was relieved successfully
+      by stenting. (c) 2017 Wiley Periodicals, Inc.
+AD  - Division of Cardiology, Department of Pediatrics, University of California San Diego, Rady Children's Hospital San Diego, San Diego, California. West Virginia University School of Medicine, Morgantown, West Virginia. Division of Cardiology, Department of Pediatrics, University of California San Diego, Rady Children's Hospital San Diego, San Diego, California. Division of Cardiology, Department of Pediatrics, University of California San Diego, Rady Children's Hospital San Diego, San Diego, California. Division of Cardiology, Department of Pediatrics, University of California San Diego, Rady Children's Hospital San Diego, San Diego, California.
+PHST- 2016/10/13 [received]
+PHST- 2017/04/05 [revised]
+PHST- 2017/04/08 [accepted]
+IS  - 1522-726X (Electronic) 1522-1946 (Linking)
+AU  - Moiduddin NJ
+AU  - Rios R
+AU  - El-Said H
+AU  - Moore JW
+MHDA- 2017/05/05 06:00
+AUID- ORCID: http://orcid.org/0000-0003-0779-6630
+OTO - NOTNLM
+EDAT- 2017/05/05 06:00
+SO  - Catheter Cardiovasc Interv. 2017 May 4. doi: 10.1002/ccd.27115.
+PMID- 28471087
+OT  - aortic disease
+OT  - bare metal stents
+OT  - congenital heart disease
+PST - aheadofprint
+
+LID - 10.1111/anec.12449 [doi]
+STAT- Publisher
+DEP - 20170503
+CI  - (c) 2017 Wiley Periodicals, Inc.
+DA  - 20170503
+AID - 10.1111/anec.12449 [doi]
+CRDT- 2017/05/04 06:00
+DP  - 2017 May 03
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Reddy, Vivek
+FAU - Kundumadam, Shanker
+FAU - Kathi, Pradeep
+FAU - Dhillon, Kunwardeep
+FAU - Ismail, Hibah
+FAU - Anem, Gautam
+JT  - Annals of noninvasive electrocardiology : the official journal of the International Society for Holter and Noninvasive Electrocardiology, Inc
+LR  - 20170503
+TI  - The exception to Marriot's sign.
+PL  - United States
+TA  - Ann Noninvasive Electrocardiol
+JID - 9607443
+AB  - Differentiation of a wide complex arrhythmia can pose as a clinical challenge
+      in the acute care setting. Two broad differentials exist including ventricular
+      tachycardia versus supraventricular tachycardia with aberrancy, underlying
+      bundle branch block or intrinsic conduction defect. To aid in distinguishing
+      between supraventricular tachycardia and ventricular tachycardia, Brugada
+      criteria is commonly used, albeit new algorithms have become more common.
+      Marriott's sign, a taller peak in the first R wave when compared to R'
+      is considered a specific criterion for distinguishing between these two
+      entities and strongly favors the diagnosis of ventricular tachycardia.
+      In this case we present a wide complex tachycardia, which is an exception
+      to Marriott's sign.
+AD  - Internal Medicine, Wayne State University School of Medicine, Detroit, MI, USA. Internal Medicine, Wayne State University School of Medicine, Detroit, MI, USA. Internal Medicine, Wayne State University School of Medicine, Detroit, MI, USA. Internal Medicine, Wayne State University School of Medicine, Detroit, MI, USA. Internal Medicine, Wayne State University School of Medicine, Detroit, MI, USA. Medical School, American University of Antigua, Saint John's, Antigua and Barbuda.
+PHST- 2017/03/05 [received]
+PHST- 2017/03/10 [accepted]
+IS  - 1542-474X (Electronic) 1082-720X (Linking)
+AU  - Reddy V
+AU  - Kundumadam S
+AU  - Kathi P
+AU  - Dhillon K
+AU  - Ismail H
+AU  - Anem G
+MHDA- 2017/05/04 06:00
+AUID- ORCID: http://orcid.org/0000-0001-9165-7232
+OTO - NOTNLM
+EDAT- 2017/05/04 06:00
+SO  - Ann Noninvasive Electrocardiol. 2017 May 3. doi: 10.1111/anec.12449.
+PMID- 28467014
+OT  - atrial flutter
+OT  - basic
+OT  - noninvasive techniques-electrocardiography/clinical
+OT  - ventricular tachycardia
+PST - aheadofprint
+
+STAT- In-Data-Review
+IP  - 3
+JT  - The Journal of the Association of Physicians of India
+CI  - (c) Journal of the Association of Physicians of India 2011.
+DA  - 20170502
+CRDT- 2017/05/03 06:00
+DP  - 2017 Mar
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Das, Madhumita Priyadarshini
+FAU - Borah, Purabi
+FAU - Thakuria, Bhaskar
+FAU - Islam, Sahidul
+FAU - Patawari, Ankit
+LR  - 20170502
+PG  - 100-101
+TI  - Small Vessel Vasculitis, an Uncommon Presentation of Systemic Lupus Erythematosus.
+PL  - India
+TA  - J Assoc Physicians India
+JID - 7505585
+AB  - We report a nineteen year old female with gangrene of toes as the only
+      clinical feature of systemic lupus erythematosus. She was treated successfully
+      with pulse cyclophosphamide and steroid.
+AD  - Professor of Medicine. Registrar of Medicine. Assisstant Professor of Medicine. Post Graduate Trainee, Gauhati Medical College and Hospital (GMCH), Guwahati, Assam. Post Graduate Trainee, Gauhati Medical College and Hospital (GMCH), Guwahati, Assam.
+VI  - 65
+IS  - 0004-5772 (Print) 0004-5772 (Linking)
+AU  - Das MP
+AU  - Borah P
+AU  - Thakuria B
+AU  - Islam S
+AU  - Patawari A
+MHDA- 2017/05/04 06:00
+EDAT- 2017/05/04 06:00
+SO  - J Assoc Physicians India. 2017 Mar;65(3):100-101.
+PMID- 28462558
+PST - ppublish
+
+LID - 10.4166/kjg.2017.69.4.239 [doi]
+STAT- In-Process
+IP  - 4
+JT  - The Korean journal of gastroenterology = Taehan Sohwagi Hakhoe chi
+DA  - 20170427
+AID - 10.4166kjg.2017.69.4.239 [pii]
+AID - 10.4166/kjg.2017.69.4.239 [doi]
+CRDT- 2017/04/28 06:00
+DP  - 2017 Apr 25
+OWN - NLM
+PT  - Case Reports
+PT  - English Abstract
+LA  - kor
+FAU - Ryu, Dae Gon
+FAU - Choi, Cheol Woong
+FAU - Kang, Dae Hwan
+FAU - Kim, Hyung Wook
+FAU - Jeong, Dong Il
+FAU - Kim, Wan Chul
+FAU - Shin, Jae Gyu
+FAU - Lim, Tae Won
+LR  - 20170427
+PG  - 239-242
+TI  - [A Case of Intramural Hematoma of the Esophagus Mimicking Acute Coronary
+      Syndrome].
+PL  - Korea (South)
+TA  - Korean J Gastroenterol
+JID - 101189416
+AB  - Intramural hematoma of the esophagus is a rare condition that can be spontaneous
+      or secondary to trauma, toxic ingestion, or intervention. If it is the
+      spontaneous type, it usually presents initially with epigastric pain,
+      hematemesis or dysphagia. We present a case of intramural hematoma of
+      the esophagus mimicking acute coronary syndrome. A 63-year-old man presented
+      with severe acute chest pain. He has four coronary stents that were inserted
+      five years ago, from a different hospital, and is on dual antiplatelet
+      agents. Coronary angiography was performed immediately under the suspicion
+      of acute coronary syndrome, and we found that there was no obvious clogging
+      of the coronary arteries. Next, chest computed tomography was performed
+      due to suspected aortic dissection, and the result was also negative.
+      Four days later, endoscopy was performed and intramural hematoma covered
+      with large ulcers was diagnosed.
+AD  - Department of Internal Medicine, Pusan National University School of Medicine, Busan, Korea. Research Institute for Convergence of Biomedical Science and Technology, Pusan National University Yangsan Hospital, Yangsan, Korea. Department of Internal Medicine, Pusan National University School of Medicine, Busan, Korea. Research Institute for Convergence of Biomedical Science and Technology, Pusan National University Yangsan Hospital, Yangsan, Korea. Department of Internal Medicine, Pusan National University School of Medicine, Busan, Korea. Research Institute for Convergence of Biomedical Science and Technology, Pusan National University Yangsan Hospital, Yangsan, Korea. Department of Internal Medicine, Pusan National University School of Medicine, Busan, Korea. Research Institute for Convergence of Biomedical Science and Technology, Pusan National University Yangsan Hospital, Yangsan, Korea. Department of Internal Medicine, BHS Hanseo Hospital, Busan, Korea. Department of Internal Medicine, BHS Hanseo Hospital, Busan, Korea. Department of Internal Medicine, Hwa Myung Il Sin Christian Medical Center, Busan, Korea. Dr. Hong's Internal Medicine, Yangsan, Korea.
+VI  - 69
+IS  - 2233-6869 (Electronic) 1598-9992 (Linking)
+AU  - Ryu DG
+AU  - Choi CW
+AU  - Kang DH
+AU  - Kim HW
+AU  - Jeong DI
+AU  - Kim WC
+AU  - Shin JG
+AU  - Lim TW
+MHDA- 2017/04/28 06:00
+OTO - NOTNLM
+EDAT- 2017/04/28 06:00
+SO  - Korean J Gastroenterol. 2017 Apr 25;69(4):239-242. doi: 10.4166/kjg.2017.69.4.239.
+PMID- 28449426
+OT  - Acute coronary syndrome
+OT  - Esophagus
+OT  - Hematoma
+PST - ppublish
+
+LID - 10.11152/mu-892 [doi]
+STAT- In-Process
+IP  - 2
+JT  - Medical ultrasonography
+DA  - 20170425
+CRDT- 2017/04/26 06:00
+DP  - 2017 Apr 22
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Gozar, Liliana
+FAU - Marginean, Claudiu
+FAU - Toganel, Rodica
+FAU - Muntean, Iolanda
+LR  - 20170425
+PG  - 232-235
+TI  - The role of echocardiography in fetal tachyarrhythmia diagnosis. A burden
+      for the pediatric cardiologist and a review of the literature.
+PL  - Romania
+TA  - Med Ultrason
+JID - 101522985
+AB  - Supraventricular tachyarrhythmia represents the most frequent fetal dysrhythmia.
+      In the lack of diagnosis and treatment these fetuses may develop hydrops
+      and even death. For the therapeutic approach it is important to establish
+      the diagnosis of the type of supraventricular tachycardia. In this paper
+      we report 29 cases with different types of supraventricular tachycardia
+      in which the diagnosis was established using our own protocol, which allowed
+      us to make the difference between the types of tachycardia (atrioventricular
+      reentry tachycardia due to the accessory pathway, atrial ectopic tachycardia
+      and permanent junctional reciprocal tachycardia). We acquired the data
+      by a series of recordings in M mode and pulsed Doppler by simultaneous
+      recording of an artery and a vein flow. First of all, we diagnosed the
+      supraventricular tachycardia type, with short or long ventriculoarterial
+      interval, and afterwards, we made the difference between atrial ectopic
+      tachycardia and permanent junctional reciprocal tachycardia using methods
+      to decrease the atrioventricular conduction.
+AD  - Department of Pediatric Cardiology, University of Medicine and Pharmacy Tirgu Mures, Romania. lili_gozar@yahoo.com. Department of Obstetrics and Gynecology, University of Medicine and Pharmacy Tirgu Mures, Romania. marginean.claudiu@gmail.com. Department of Pediatric Cardiology, University of Medicine and Pharmacy Tirgu Mures, Romania. rodicatoganel@yahoo.com. Department of Pediatric Cardiology, University of Medicine and Pharmacy Tirgu Mures, Romania. iolanda.muntean@gmail.com.
+VI  - 19
+IS  - 2066-8643 (Electronic) 1844-4172 (Linking)
+AU  - Gozar L
+AU  - Marginean C
+AU  - Toganel R
+AU  - Muntean I
+MHDA- 2017/04/26 06:00
+EDAT- 2017/04/26 06:00
+SO  - Med Ultrason. 2017 Apr 22;19(2):232-235. doi: 10.11152/mu-892.
+PMID- 28440361
+PST - ppublish
+
+LID - 10.1111/jog.13301 [doi]
+STAT- Publisher
+DEP - 20170424
+CI  - (c) 2017 Japan Society of Obstetrics and Gynecology.
+DA  - 20170424
+AID - 10.1111/jog.13301 [doi]
+CRDT- 2017/04/25 06:00
+DP  - 2017 Apr 24
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Johannesson, Liza
+FAU - Mason, Jennifer
+FAU - Oehler, Martin K
+JT  - The journal of obstetrics and gynaecology research
+LR  - 20170424
+TI  - Uterine artery pseudoaneurysm bleeding one decade after caesarean section:
+      A case report.
+PL  - Australia
+TA  - J Obstet Gynaecol Res
+JID - 9612761
+AB  - Uterine artery pseudoaneurysm (UAP) can cause severe secondary post-partum
+      hemorrhage. The lag time between the triggering event and the manifestation
+      of UAP reportedly usually occurs within a couple of weeks. In this case
+      report, a 46-year-old woman with no significant comorbidities presented
+      with a one-month history of increasing lower abdominal pain. She had previously
+      undergone two cesarean sections (14 and 10 years earlier). A computed
+      tomography angiogram revealed a left UAP. The patient was successfully
+      treated by selective embolization and had an uneventful recovery. In our
+      case, the time period between the cesarean section and presentation was
+      approximately 10 years with no other potential causative factors. This
+      case highlights that UAP should be included as a differential diagnosis
+      in all female patients presenting with pelvic pain and pelvic bleeding.
+      More specifically, UAP should be considered after a previous history of
+      cesarean section, as a delayed diagnosis can result in serious morbidity
+      and even mortality.
+AD  - Department of Gynaecological Oncology, Royal Adelaide Hospital, Adelaide, South Australia, Australia. Department of Gynaecological Oncology, Royal Adelaide Hospital, Adelaide, South Australia, Australia. Department of Gynaecological Oncology, Royal Adelaide Hospital, Adelaide, South Australia, Australia.
+IS  - 1447-0756 (Electronic) 1341-8076 (Linking)
+AU  - Johannesson L
+AU  - Mason J
+AU  - Oehler MK
+MHDA- 2017/04/25 06:00
+PHST- 2016/10/20 [received]
+PHST- 2016/12/26 [revised]
+PHST- 2017/01/02 [accepted]
+OTO - NOTNLM
+EDAT- 2017/04/25 06:00
+SO  - J Obstet Gynaecol Res. 2017 Apr 24. doi: 10.1111/jog.13301.
+PMID- 28437039
+OT  - Abnormal uterine bleeding
+OT  - benign disease of uterus
+OT  - cesarean section
+OT  - gynecological imaging
+OT  - surgery
+PST - aheadofprint
+
+LID - 10.1111/anec.12450 [doi]
+STAT- Publisher
+DEP - 20170421
+CI  - (c) 2017 Wiley Periodicals, Inc.
+DA  - 20170421
+AID - 10.1111/anec.12450 [doi]
+CRDT- 2017/04/22 06:00
+DP  - 2017 Apr 21
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Oledzki, Szymon
+FAU - Wojtarowicz, Andrzej
+FAU - Plonska-Gosciniak, Edyta
+FAU - Lewandowski, Maciej
+FAU - Goracy, Jaroslaw
+JT  - Annals of noninvasive electrocardiology : the official journal of the International Society for Holter and Noninvasive Electrocardiology, Inc
+LR  - 20170421
+TI  - Scuba diving, patent foramen ovale and heart rhythm disturbances: The
+      role of underwater Holter monitoring-Case report.
+PL  - United States
+TA  - Ann Noninvasive Electrocardiol
+JID - 9607443
+AB  - Patent foramen ovale (PFO) is thought to be a risk factor for decompression
+      illness (DCI). Catheter-based closure procedure reduces the risk of DCI
+      in selected scuba divers with PFO. Major complication of invasive approach
+      are rare, minor, especially heart rhythm disturbances are reported relatively
+      often. We describe a case of 41-year-old diver, who underwent PFO closure
+      due to recurrent DCI events. Afterward, he experienced no DCI symptoms;
+      however, he complained about feeling of the heart beating during a submersion.
+      Arrhythmia should be considered as a life-threatening for scuba diver,
+      thus we performed underwater ECG monitoring and exclude the arrhythmia.
+AD  - Department of Cardiology, Pomeranian Medical University, Szczecin, Poland. Department of Cardiology, Pomeranian Medical University, Szczecin, Poland. Department of Cardiology, Pomeranian Medical University, Szczecin, Poland. Department of Cardiology, Pomeranian Medical University, Szczecin, Poland. Department of Cardiology, Pomeranian Medical University, Szczecin, Poland.
+PHST- 2017/02/05 [received]
+PHST- 2017/03/02 [accepted]
+IS  - 1542-474X (Electronic) 1082-720X (Linking)
+AU  - Oledzki S
+AU  - Wojtarowicz A
+AU  - Plonska-Gosciniak E
+AU  - Lewandowski M
+AU  - Goracy J
+MHDA- 2017/04/22 06:00
+AUID- ORCID: http://orcid.org/0000-0003-2819-476X
+OTO - NOTNLM
+EDAT- 2017/04/22 06:00
+SO  - Ann Noninvasive Electrocardiol. 2017 Apr 21. doi: 10.1111/anec.12450.
+PMID- 28429454
+OT  - Holter
+OT  - electrocardiography
+PST - aheadofprint
+
+LID - 10.1111/1556-4029.13525 [doi]
+STAT- Publisher
+DEP - 20170420
+CI  - (c) 2017 American Academy of Forensic Sciences.
+DA  - 20170420
+AID - 10.1111/1556-4029.13525 [doi]
+CRDT- 2017/04/21 06:00
+DP  - 2017 Apr 20
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Srettabunjong, Supawon
+JT  - Journal of forensic sciences
+LR  - 20170509
+TI  - Fatal Acute Hemorrhagic Bowel Infarction Caused by Mesenteric Venous Thrombosis.
+PL  - United States
+TA  - J Forensic Sci
+JID - 0375370
+AB  - Acute mesenteric venous thrombosis (MVT) is a rare, but life-threatening
+      medical phenomenon. MVT is normally characterized by insidious onset,
+      with nonspecific signs and symptoms. A high index of clinical suspicion
+      is required for diagnosis, and emergency surgery is necessary to optimize
+      the chances of patient survival, especially in the people aged more than
+      70 years. Surprisingly, based on my review of the literature, no fatal
+      acute MVT case has been reported in the forensic literature. All reported
+      such cases have been documented in medical literature, and most of them
+      have been associated with underlying risk factors for venous thrombosis,
+      such as hypercoagulable state, certain cancers, and stasis of the blood
+      flow. Here, I report the case of a sudden unexpected death due to extensive
+      intestinal ischemia and infarction with massive abdominal hemorrhage caused
+      by acute MVT in a 72-year-old man without known underlying risk factors.
+AD  - Departments of Forensic Medicine, Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok, 10700, Thailand.
+IS  - 1556-4029 (Electronic) 0022-1198 (Linking)
+AU  - Srettabunjong S
+MHDA- 2017/04/21 06:00
+PHST- 2017/01/28 [received]
+PHST- 2017/03/21 [revised]
+PHST- 2017/03/23 [accepted]
+OTO - NOTNLM
+EDAT- 2017/04/21 06:00
+SO  - J Forensic Sci. 2017 Apr 20. doi: 10.1111/1556-4029.13525.
+PMID- 28425094
+OT  - embolism
+OT  - forensic pathology
+OT  - forensic science
+OT  - intestinal gangrene
+OT  - medico-legal death
+OT  - sudden unexpected death
+OT  - thrombosis
+OT  - vascular occlusion
+PST - aheadofprint
+
+STAT- MEDLINE
+IP  - 4
+JT  - The American surgeon
+DA  - 20170420
+FAU - Rosenthal, Martin D
+FAU - Raza, Ahsan
+FAU - Markle, Stephanie
+FAU - Croft, Chasen A
+FAU - Mohr, Alicia M
+FAU - Smith, R Stephen
+DP  - 2017 Apr 01
+OWN - NLM
+PT  - Case Reports
+PT  - Journal Article
+LA  - eng
+CRDT- 2017/04/21 06:00
+DCOM- 20170501
+LR  - 20170501
+PG  - 337-340
+TI  - The Novel Use of Resuscitative Endovascular Balloon Occlusion of the Aorta
+      to Explore a Retroperitoneal Hematoma in a Hemodynamically Unstable Patient.
+PL  - United States
+TA  - Am Surg
+JID - 0370522
+AB  - Balloon occlusion of the aorta was first described by C.W. Hughes in 1954,
+      when it was used as a tamponade device for three wounded soldiers during
+      the Korean War suffering from intra-abdominal hemorrhage. Currently, the
+      device is indicated in trauma patients as a surrogate for resuscitative
+      thoracotomy. Brenner et al. reported a case series describing the use
+      of resuscitative endovascular balloon occlusion of the aorta (REBOA) in
+      advanced hemorrhagic shock. Their conclusion was that "it is a feasible
+      method for proximal aortic control." We describe the novel use of REBOA
+      before retroperitoneal hematoma exploration in a hemodynamically unstable
+      patient. Reported is a 19-year-old blunt trauma victim where REBOA was
+      successfully deployed as a means for proximal arterial control before
+      a Zone 1 retroperitoneal hematoma exploration. The source of the patient's
+      hemorrhagic shock was multifactorial: grade V hepatic injury, retrohepatic
+      inferior vena cava laceration, and right renal vein avulsion with Zone
+      1 retroperitoneal hematoma. Immediate return of perfusion pressure, as
+      systolic pressures increased from 50 to 150 mm Hg. Hemodynamic improvements
+      were accompanied by decreased transfusion and vasopressor requirements.
+      In addition, the surgeons were able to enter the retroperitoneal hematoma
+      under controlled conditions. REBOA is an attractive new tool to gain proximal
+      aortic control in select patients with hemorrhagic shock. It is less morbid,
+      possibly more efficient, and appears to be more effective than resuscitative
+      thoracotomy. REBOA is certainly feasible for proximal aortic control before
+      retroperitoneal exploration, and should be considered in select patients.
+VI  - 83
+IS  - 1555-9823 (Electronic) 0003-1348 (Linking)
+AU  - Rosenthal MD
+AU  - Raza A
+AU  - Markle S
+AU  - Croft CA
+AU  - Mohr AM
+AU  - Smith RS
+MHDA- 2017/05/02 06:00
+MH  - Accidents, Traffic
+MH  - Aorta, Abdominal/*injuries
+MH  - Balloon Occlusion/*methods
+MH  - Fatal Outcome
+MH  - Hematoma/*therapy
+MH  - Hemodynamics
+MH  - Hemoperitoneum/*therapy
+MH  - Humans
+MH  - Liver/injuries
+MH  - Male
+MH  - Resuscitation/*methods
+MH  - Shock, Hemorrhagic/*therapy
+MH  - Vena Cava, Inferior/injuries
+MH  - Young Adult
+EDAT- 2017/04/21 06:00
+SO  - Am Surg. 2017 Apr 1;83(4):337-340.
+SB  - IM
+PMID- 28424126
+PST - ppublish
+
+STAT- MEDLINE
+IP  - 4
+JT  - The American surgeon
+DA  - 20170420
+FAU - McBride, Katherine M
+FAU - Bromberg, William
+FAU - Dunne, James
+DP  - 2017 Apr 01
+OWN - NLM
+PT  - Case Reports
+PT  - Journal Article
+LA  - eng
+CRDT- 2017/04/21 06:00
+DCOM- 20170501
+LR  - 20170501
+PG  - 332-336
+TI  - Thromboelastography Utilization in Delayed Recurrent Coagulopathy after
+      Severe Eastern Diamondback Rattlesnake Envenomation.
+RN  - 0 (Antivenins)
+RN  - 0 (Crotalidae Polyvalent immune Fab)
+RN  - 0 (Immunoglobulin Fab Fragments)
+PL  - United States
+TA  - Am Surg
+JID - 0370522
+AB  - Venomous snakebites are fairly common in the United States and can present
+      with a wide range of symptoms. A 48-year-old man presented after Eastern
+      Diamondback rattlesnake envenomation. His hospital course was complicated
+      by right leg compartment syndrome and delayed recurrent coagulopathy,
+      requiring multiple doses of Crotalidae Polyvalent Immune Fab (CroFab)
+      antivenom and transfusions. Thromboelastography was used as an adjunct
+      to standard coagulation studies in monitoring his delayed recurrent coagulopathy.
+VI  - 83
+IS  - 1555-9823 (Electronic) 0003-1348 (Linking)
+AU  - McBride KM
+AU  - Bromberg W
+AU  - Dunne J
+MHDA- 2017/05/02 06:00
+MH  - Animals
+MH  - Antivenins/*therapeutic use
+MH  - Blood Coagulation Disorders/*etiology/*therapy
+MH  - Blood Component Transfusion
+MH  - Compartment Syndromes/*etiology/*surgery
+MH  - Crotalus
+MH  - Humans
+MH  - Immunoglobulin Fab Fragments/*therapeutic use
+MH  - Injury Severity Score
+MH  - Leg Injuries/etiology/therapy
+MH  - Male
+MH  - Middle Aged
+MH  - Recurrence
+MH  - Snake Bites/*therapy
+MH  - *Thrombelastography
+MH  - United States
+EDAT- 2017/04/21 06:00
+SO  - Am Surg. 2017 Apr 1;83(4):332-336.
+SB  - IM
+PMID- 28424125
+OT  - ICD10CM:T79.A0
+OT  - ICD10CM:D68.9
+PST - ppublish
+
+LID - 10.1177/1971400917690008 [doi]
+STAT- MEDLINE
+IP  - 2
+DEP - 20170101
+DA  - 20170420
+AID - 10.1177/1971400917690008 [doi]
+FAU - Singh, Vivek
+FAU - Naik, Suprava
+FAU - Bhoi, Sanjeev K
+FAU - Phadke, R V
+DP  - 2017 Apr
+OWN - NLM
+PT  - Case Reports
+PT  - Journal Article
+LA  - eng
+CRDT- 2017/04/21 06:00
+DCOM- 20170501
+JT  - The neuroradiology journal
+LR  - 20170501
+PG  - 180-185
+TI  - Anterior spinal artery aneurysm in aortic stenosis of different etiology:
+      Report of three cases.
+PL  - United States
+TA  - Neuroradiol J
+JID - 101295103
+AB  - Isolated aneurysms of spinal arteries are rare. Spinal artery aneurysms
+      are commonly found in association with spinal cord arteriovenous malformation
+      and coarctation of aorta and rarely with aortic arch interruption and
+      Klippel-Trenaunay syndrome. Spinal angiograms are the gold standard for
+      diagnosing these spinal artery aneurysms but with the advances in computed
+      tomography technology these aneurysms can also be very well demonstrated
+      in computed tomography angiograms. We describe three cases of anterior
+      spinal artery aneurysm, those are flow related aneurysms, associated with
+      coarctation of aorta and with Takayasu arteritis.
+AD  - 1 Department of Radiodiagnosis, Sanjay Gandhi Postgraduate Institute of Medical Science, India. 2 Department of Radiodiagnosis, All India Institute of Medical Sciences, India. 3 Department of Neurology, All India Institute of Medical Sciences, India. 1 Department of Radiodiagnosis, Sanjay Gandhi Postgraduate Institute of Medical Science, India.
+VI  - 30
+IS  - 2385-1996 (Electronic) 1971-4009 (Linking)
+AU  - Singh V
+AU  - Naik S
+AU  - Bhoi SK
+AU  - Phadke RV
+MHDA- 2017/05/02 06:00
+OTO - NOTNLM
+MH  - Adolescent
+MH  - Adult
+MH  - Aneurysm/*complications/diagnostic imaging/*etiology
+MH  - Aortic Valve Stenosis/complications/diagnostic imaging/*etiology
+MH  - Computed Tomography Angiography
+MH  - Female
+MH  - Humans
+MH  - Magnetic Resonance Imaging
+MH  - Male
+MH  - Middle Aged
+MH  - Vertebral Artery/diagnostic imaging/*pathology
+EDAT- 2017/04/21 06:00
+SO  - Neuroradiol J. 2017 Apr;30(2):180-185. doi: 10.1177/1971400917690008. Epub 2017 Jan 1.
+SB  - IM
+PMID- 28424013
+OT  - *Anterior spinal artery
+OT  - *Takayasu arteritis
+OT  - *aneurysm
+OT  - *coarctation of aorta
+OT  - *computed tomography angiography
+OT  - ICD10CM:Q23.0
+PST - ppublish
+
+LID - 10.1177/1971400917692162 [doi]
+STAT- MEDLINE
+IP  - 2
+DEP - 20170101
+DA  - 20170420
+AID - 10.1177/1971400917692162 [doi]
+FAU - Li, Shuo
+FAU - Hooda, Kusum
+FAU - Gupta, Nishant
+FAU - Kumar, Yogesh
+DP  - 2017 Apr
+OWN - NLM
+PT  - Case Reports
+PT  - Journal Article
+PT  - Review
+LA  - eng
+CRDT- 2017/04/21 06:00
+DCOM- 20170501
+JT  - The neuroradiology journal
+LR  - 20170501
+PG  - 186-191
+TI  - Internal carotid artery agenesis: A case report and review of literature.
+PL  - United States
+TA  - Neuroradiol J
+JID - 101295103
+AB  - Congenital agenesis of the internal carotid artery is a very rare anomaly.
+      Intracranial circulation in the involved internal carotid artery territory
+      is maintained by collateral circulation from the contralateral internal
+      carotid artery through the anterior communicating artery and from the
+      vertebrobasilar system through the posterior communicating artery. Usually,
+      patients with internal carotid artery agenesis are asymptomatic due to
+      collateral circulation, but they may present with headache, seizures,
+      or transient ischemic attack. Aneurysms have also been reported to be
+      associated with this entity. Computed tomography angiography, magnetic
+      resonance angiography, and digital subtraction angiography are commonly
+      used modalities to make the diagnosis. Unenhanced skull base computed
+      tomography will show the absence of carotid canal, thus differentiating
+      from carotid hypoplasia. We report on a case of right internal carotid
+      artery agenesis with discussion of embryogenesis, clinical presentation,
+      and imaging findings.
+AD  - 1 Department of Radiology, Yale New Haven Health - Bridgeport Hospital, USA. 1 Department of Radiology, Yale New Haven Health - Bridgeport Hospital, USA. 2 Department of Radiology, St Vincent's Medical Center, USA. 1 Department of Radiology, Yale New Haven Health - Bridgeport Hospital, USA.
+VI  - 30
+IS  - 2385-1996 (Electronic) 1971-4009 (Linking)
+AU  - Li S
+AU  - Hooda K
+AU  - Gupta N
+AU  - Kumar Y
+MHDA- 2017/05/02 06:00
+OTO - NOTNLM
+MH  - Carotid Artery Diseases/*complications/diagnostic imaging
+MH  - Carotid Artery, Internal/*abnormalities/diagnostic imaging
+MH  - Humans
+MH  - Magnetic Resonance Angiography
+MH  - Male
+MH  - Tomography Scanners, X-Ray Computed
+EDAT- 2017/04/21 06:00
+SO  - Neuroradiol J. 2017 Apr;30(2):186-191. doi: 10.1177/1971400917692162. Epub 2017 Jan 1.
+SB  - IM
+PMID- 28424012
+OT  - *Cerebral collateral circulations
+OT  - *circle of Willis
+OT  - *internal carotid artery
+OT  - ICD10CM:I67.9
+PST - ppublish
+
+LID - 10.1177/1971400917692163 [doi]
+STAT- MEDLINE
+IP  - 2
+DEP - 20170313
+DA  - 20170420
+AID - 10.1177/1971400917692163 [doi]
+FAU - Lv, Xianli
+FAU - Li, Wei
+FAU - Liu, Aihua
+FAU - Lv, Ming
+FAU - Jiang, Chuhan
+DP  - 2017 Apr
+OWN - NLM
+PT  - Case Reports
+PT  - Journal Article
+PT  - Review
+LA  - eng
+CRDT- 2017/04/21 06:00
+DCOM- 20170501
+JT  - The neuroradiology journal
+LR  - 20170501
+PG  - 151-159
+TI  - Endovascular treatment evolution for pure intraorbital arteriovenous fistula:
+      Three case reports and literature review.
+PL  - United States
+TA  - Neuroradiol J
+JID - 101295103
+AB  - Background and importance Intraorbital arteriovenous fistulas (IOAVFs)
+      are rare and cause eye redness, exophthalmos, blurry vision and bruit.
+      Whereas in the past they were treated conservatively, surgically or transarterially,
+      recent developments in transvenous embolization have improved their treatment.
+      In this paper the authors report three cases of IOAVFs treated endovascularly
+      and review the evolution of treatment options. Methods Three cases of
+      purely IOAVF enrolled in our center were reported and a PubMed literature
+      search was performed using "pure intraorbital arteriovenous fistula" and
+      "arteriovenous fistula of the optic nerve sheath." A total of 21 papers
+      were reviewed in full, focusing primarily on the treatment and outcomes.
+      Results A total of 26 patients were obtained, including our three patients
+      and 23 patients reported in the literature. In nine patients treated conservatively,
+      four spontaneous occlusions, one visual deterioration and four cases with
+      unknown outcome were reported. In another 18 patients, 29 therapies (including
+      five surgical treatment, 11 transarterial embolizations and 13 transvenous
+      embolizations) were attempted and resulted in 12 cures, five visual deteriorations
+      and one without reported outcome. More recently, transvenous embolization
+      has become the mainstay of IOAVF treatment. Of the 21 patients assessed
+      between 2000 and 2013, a transvenous approach was attempted in 13 patients;
+      nine patients were cured without any adverse events. Conclusion Development
+      and improvement of transvenous techniques are found to be safe and effective
+      for patients with IOAVF.
+AD  - Interventional Neuroradiology Department, Beijing Neurosurgical Institute and Beijing Tiantan Hospital, Capital Medical University, China. Interventional Neuroradiology Department, Beijing Neurosurgical Institute and Beijing Tiantan Hospital, Capital Medical University, China. Interventional Neuroradiology Department, Beijing Neurosurgical Institute and Beijing Tiantan Hospital, Capital Medical University, China. Interventional Neuroradiology Department, Beijing Neurosurgical Institute and Beijing Tiantan Hospital, Capital Medical University, China. Interventional Neuroradiology Department, Beijing Neurosurgical Institute and Beijing Tiantan Hospital, Capital Medical University, China.
+VI  - 30
+IS  - 2385-1996 (Electronic) 1971-4009 (Linking)
+AU  - Lv X
+AU  - Li W
+AU  - Liu A
+AU  - Lv M
+AU  - Jiang C
+MHDA- 2017/05/02 06:00
+OTO - NOTNLM
+MH  - Aged
+MH  - Arteriovenous Fistula/diagnostic imaging/*surgery
+MH  - Cerebral Angiography
+MH  - Embolization, Therapeutic/*methods
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+EDAT- 2017/04/21 06:00
+SO  - Neuroradiol J. 2017 Apr;30(2):151-159. doi: 10.1177/1971400917692163. Epub 2017 Mar 13.
+SB  - IM
+PMID- 28424011
+OT  - *Treatment
+OT  - *arteriovenous fistula
+OT  - *endovascular
+OT  - *evolution
+OT  - *intraorbital
+OT  - *pure
+PST - ppublish
+
+LID - S0102-76382017000100053 [pii] 10.21470/1678-9741-2016-0045 [doi]
+STAT- In-Data-Review
+IP  - 1
+JT  - Brazilian journal of cardiovascular surgery
+DA  - 20170419
+AID - S0102-76382017000100053 [pii]
+AID - 10.21470/1678-9741-2016-0045 [doi]
+CRDT- 2017/04/20 06:00
+DP  - 2017 Jan-Feb
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Lucas, Marcio Luis
+FAU - Binotto, Ivia
+FAU - Behar, Paulo
+FAU - Erling, Nilon Jr
+FAU - Lichtenfels, Eduardo
+FAU - Aerts, Newton
+LR  - 20170423
+PG  - 53-56
+TI  - Thoracoabdominal Aortic Aneurysm in a HIV-positive Patient.
+PL  - Brazil
+TA  - Braz J Cardiovasc Surg
+JID - 101677045
+AB  - Advent of antiretroviral therapy has increased survival of patients with
+      human immunodeficiency virus (HIV) infections, with the result that some
+      of these patients now develop degenerative diseases, such as atherosclerotic
+      aneurysms. Degenerative thoracoabdominal aortic aneurysm is rare in HIV
+      patients. In this report, a 63-year-old male patient with HIV submitted
+      to open repair of thoracoabdominal aortic aneurysm. The patient did not
+      suffer any type of complication in the perioperative period and remained
+      well in a 28-month follow-up period. In summary, open repair still remains
+      a good alternative for aortic complex aneurysms even in HIV patients.
+AD  - Department of Vascular Surgery at Santa Casa de Porto Alegre, RS, Brazil. Department of Vascular Surgery at Santa Casa de Porto Alegre, RS, Brazil. Department of Infectious Diseases at Universidade Federal de Ciencias da Saude de Porto Alegre (UFCSPA), RS, Brazil. Department of Vascular Surgery at Santa Casa de Porto Alegre, RS, Brazil. Department of Surgery at Universidade Federal de Ciencias da Saude de Porto Alegre (UFCSPA), RS, Brazil. Department of Vascular Surgery at Santa Casa de Porto Alegre, RS, Brazil. Department of Surgery at Universidade Federal de Ciencias da Saude de Porto Alegre (UFCSPA), RS, Brazil. Department of Vascular Surgery at Santa Casa de Porto Alegre, RS, Brazil. Department of Surgery at Universidade Federal de Ciencias da Saude de Porto Alegre (UFCSPA), RS, Brazil.
+VI  - 32
+IS  - 1678-9741 (Electronic) 0102-7638 (Linking)
+PMC - PMC5382901
+AU  - Lucas ML
+AU  - Binotto I
+AU  - Behar P
+AU  - Erling N Jr
+AU  - Lichtenfels E
+AU  - Aerts N
+MHDA- 2017/04/20 06:00
+PHST- 2016/10/23 [received]
+PHST- 2016/12/06 [accepted]
+EDAT- 2017/04/20 06:00
+SO  - Braz J Cardiovasc Surg. 2017 Jan-Feb;32(1):53-56. doi: 10.21470/1678-9741-2016-0045.
+PMID- 28423131
+PST - ppublish
+
+LID - 10.1097/MD.0000000000006690 [doi]
+STAT- MEDLINE
+IP  - 16
+JT  - Medicine
+DA  - 20170419
+AID - 10.1097/MD.0000000000006690 [doi]
+AID - 00005792-201704210-00065 [pii]
+FAU - Lio, Chon-Fu
+FAU - Lee, Ying-Hua
+FAU - Chan, Hung-Yen
+FAU - Yu, Chang-Ching
+FAU - Peng, Nan-Jing
+FAU - Chan, Hung-Pin
+DP  - 2017 Apr
+OWN - NLM
+PT  - Case Reports
+PT  - Journal Article
+LA  - eng
+CRDT- 2017/04/20 06:00
+DCOM- 20170509
+LR  - 20170509
+PG  - e6690
+TI  - Posterior reversible encephalopathy syndrome in a postpartum hemorrhagic
+      woman without hypertension: A case report.
+PL  - United States
+TA  - Medicine (Baltimore)
+JID - 2985248R
+AB  - RATIONALE: Posterior reversible encephalopathy syndrome (PRES), which
+      diagnosis is based on clinical symptoms and radiological features, is
+      a neurotoxic disease characterized by a set of clinical manifestations,
+      such as seizure, headache, visual, and/or consciousness disturbance. It
+      is the first case of PRES followed by postpartum hemorrhage (PPH) without
+      underlying disease. PATIENT CONCERNS: A 37-year-old healthy woman had
+      PPH after caesarean section. Six days after delivery, headache occurred
+      suddenly, followed by episodes of clonus seizure. DIAGNOSES: Brain computed
+      tomography showed ischemic stroke. However, magnetic resonance imaging
+      revealed characteristics consistent with PRES. INTERVENTIONS: The patient
+      received phenytoin for seizure control. OUTCOMES: Seizure was under good
+      control over the following days. Three months later, repeated magnetic
+      resonance imaging showed complete remission. LESSONS: PRES may be triggered
+      by PPH and is not necessarily secondary to typical predisposing factors
+      such as hypertension or pre/eclampsia. Hormone fluctuation, increased
+      blood pressure variation, and massive blood transfusion may be contributed
+      to the development of PRES in our case. Also, it is necessary to rule
+      out those life-threatening diseases, such as cavernoma hemorrhage, cerebral
+      venous thrombosis, and ischemic stroke before the diagnosis of PRES.
+AD  - aDepartment of Nuclear Medicine, Kaohsiung Veterans General Hospital, Kaohsiung City, Taiwan bCentro Hospitalar Conde de Sao Januario, Macao, China cDepartment of Medicine, National Defense Medical Center, Taipei City dDepartment of Emergency, E-Da Hospital, Kaohsiung City eSchool of Medicine, National Yang-Ming University, Taipei City, Taiwan.
+VI  - 96
+IS  - 1536-5964 (Electronic) 0025-7974 (Linking)
+PMC - PMC5406100
+AU  - Lio CF
+AU  - Lee YH
+AU  - Chan HY
+AU  - Yu CC
+AU  - Peng NJ
+AU  - Chan HP
+MHDA- 2017/05/10 06:00
+MH  - Adult
+MH  - Cesarean Section
+MH  - Female
+MH  - Humans
+MH  - Magnetic Resonance Imaging
+MH  - Posterior Leukoencephalopathy Syndrome/diagnostic imaging/*etiology
+MH  - *Postpartum Hemorrhage
+MH  - Seizures/etiology
+MH  - Tomography, X-Ray Computed
+EDAT- 2017/04/20 06:00
+SO  - Medicine (Baltimore). 2017 Apr;96(16):e6690. doi: 10.1097/MD.0000000000006690.
+SB  - AIM IM
+PMID- 28422884
+OT  - ICD10CM:H47.6
+PST - ppublish
+
+LID - 10.1097/MD.0000000000006672 [doi]
+STAT- MEDLINE
+IP  - 16
+JT  - Medicine
+DA  - 20170419
+AID - 10.1097/MD.0000000000006672 [doi]
+AID - 00005792-201704210-00059 [pii]
+FAU - Wang, Jiantao
+FAU - Kan, Zhisheng
+FAU - Wang, Shuo
+DP  - 2017 Apr
+OWN - NLM
+PT  - Case Reports
+PT  - Journal Article
+LA  - eng
+CRDT- 2017/04/20 06:00
+DCOM- 20170509
+LR  - 20170509
+PG  - e6672
+TI  - Microsurgical treatment of carotid-ophthalmic aneurysm associated with
+      multiple anterior and posterior circulation aneurysms: A case report.
+PL  - United States
+TA  - Medicine (Baltimore)
+JID - 2985248R
+AB  - BACKGROUND: The clipping of multiple intracranial aneurysms in 1 stage
+      is uncommon. In this case, we report clipping of an ophthalmic aneurysm
+      associated with multiple anterior and posterior circulation aneurysms
+      via the Dolenc approach. METHODS: The main symptoms of the patient are
+      headache, along with nausea and vomiting. The patient's arteriogram revealed
+      a wide-necked aneurysm of the right ophthalmic artery, an irregular aneurysm
+      of the anterior communicating artery, and a basilar artery aneurysm. The
+      surgical intervention for these aneurysms is a challenge because of the
+      complex anatomical relationship with the surrounding structures. The 3
+      aneurysms, which were not amenable to a single intervention, were successfully
+      clipped in 1 incision. RESULTS: After surgery, the patient reported feeling
+      well. One year after surgery, the patient had no SAH recurrence. CONCLUSIONS:
+      Occasionally, surgical treatment was used even for aneurysms of the carotid-ophthalmic
+      artery with aneurysms of anterior communicating artery and basilar artery,
+      which are contraindicated for interventional therapy.
+AD  - aDepartment of Neurosurgery, Beijing Tiantan Hospital, Capital Medical University, Beijing, China bDepartment of Neurosurgery, Beijing Anzhen Hospital, Capital Medical University, Beijing, China.
+VI  - 96
+IS  - 1536-5964 (Electronic) 0025-7974 (Linking)
+PMC - PMC5406094
+AU  - Wang J
+AU  - Kan Z
+AU  - Wang S
+MHDA- 2017/05/10 06:00
+MH  - Basilar Artery/*surgery
+MH  - Female
+MH  - Humans
+MH  - Intracranial Aneurysm/*surgery
+MH  - Microsurgery/*methods
+MH  - Middle Aged
+MH  - Ophthalmic Artery/*surgery
+MH  - Vascular Surgical Procedures/*methods
+EDAT- 2017/04/20 06:00
+SO  - Medicine (Baltimore). 2017 Apr;96(16):e6672. doi: 10.1097/MD.0000000000006672.
+SB  - AIM IM
+PMID- 28422878
+OT  - ICD10CM:I60.7
+PST - ppublish
+
+LID - 10.1097/MD.0000000000006643 [doi]
+STAT- MEDLINE
+IP  - 16
+JT  - Medicine
+DA  - 20170419
+AID - 10.1097/MD.0000000000006643 [doi]
+AID - 00005792-201704210-00046 [pii]
+FAU - Abe, Nobuya
+FAU - Tomita, Tomoko
+FAU - Bohgaki, Miyuki
+FAU - Kasahara, Hideki
+FAU - Koike, Takao
+DP  - 2017 Apr
+OWN - NLM
+PT  - Case Reports
+PT  - Journal Article
+LA  - eng
+CRDT- 2017/04/20 06:00
+DCOM- 20170509
+LR  - 20170509
+PG  - e6643
+TI  - Crystalglobulinemia manifesting as chronic arthralgia and acute limb ischemia:
+      A clinical case report.
+RN  - 4Z8R6ORS6L (Thalidomide)
+RN  - 69G8BD63PP (Bortezomib)
+RN  - 7S5I7G3JQL (Dexamethasone)
+RN  - F0P408N6V4 (lenalidomide)
+PL  - United States
+TA  - Medicine (Baltimore)
+JID - 2985248R
+AB  - RATIONALE: Crystalglobulinemia is a rare disease caused by monoclonal
+      immunoglobulins, characterized by irreversible crystallization on refrigeration.
+      It causes systemic symptoms including purpura, arthralgia, and vessel
+      occlusive conditions to be exacerbated by exposure to cold. We report
+      a patient with crystalglobulinemia associated with monoclonal gammopathy
+      of undetermined significance (MGUS) manifesting as chronic arthralgia
+      and recurrent acute arterial occlusion. PRESENTING CONCERNS: A 61-year-old
+      man, who had been diagnosed with MGUS and who had arthralgia of unknown
+      origin, presented with recurrent acute limb ischemia after surgical thromboembolectomy.
+      Refrigeration of his serum formed precipitates that looked like needle-shaped
+      crystals. These crystals did not dissolve with warming, which is not a
+      characteristic of cryoglobulins. Skin biopsy results showed crystal-liked
+      eosinophilic bodies in small vessels and we diagnosed crystalglobulinemia.
+      INTERVENTION AND OUTCOMES: Although he underwent above-knee amputation,
+      he was treated with a bortezomib and dexamethasone-based chemotherapeutic
+      regimen, following lenalidomide maintenance therapy. Finally, he achieved
+      complete remission and serum crystalglobulins diminished. LESSONS: Monoclonal
+      gammopathy, previously diagnosed as MGUS, can cause systemic symptoms
+      and thrombotic conditions by producing pathologic immunoglobulins, such
+      as crystalglobulins. In such situations, MGUS, even when it has not progressed
+      to multiple myeloma, can be a target of aggressive chemotherapy. Crystalglobulinemia
+      should be considered for patients with monoclonal gammopathy manifesting
+      as systemic and thrombotic symptoms exacerbated by cooling.
+AD  - Department of Rheumatology, NTT Sapporo Medical Center, Sapporo, Japan.
+VI  - 96
+IS  - 1536-5964 (Electronic) 0025-7974 (Linking)
+PMC - PMC5406081
+AU  - Abe N
+AU  - Tomita T
+AU  - Bohgaki M
+AU  - Kasahara H
+AU  - Koike T
+MHDA- 2017/05/10 06:00
+MH  - Amputation
+MH  - Arterial Occlusive Diseases/*etiology
+MH  - Arthralgia/*etiology
+MH  - Bortezomib/therapeutic use
+MH  - Dexamethasone/therapeutic use
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Monoclonal Gammopathy of Undetermined Significance/*complications/diagnosis/physiopathology/therapy
+MH  - Thalidomide/analogs & derivatives/therapeutic use
+EDAT- 2017/04/20 06:00
+SO  - Medicine (Baltimore). 2017 Apr;96(16):e6643. doi: 10.1097/MD.0000000000006643.
+SB  - AIM IM
+PMID- 28422865
+PST - ppublish
+
+LID - 10.1097/MD.0000000000006560 [doi]
+STAT- MEDLINE
+IP  - 16
+JT  - Medicine
+DA  - 20170419
+AID - 10.1097/MD.0000000000006560 [doi]
+AID - 00005792-201704210-00023 [pii]
+FAU - Chiu, Yu-Li
+FAU - Hu, Chin
+FAU - Lee, Sin-Di
+FAU - Chen, Po-Yin
+FAU - Wang, Cheng-Pin
+DP  - 2017 Apr
+OWN - NLM
+PT  - Case Reports
+PT  - Journal Article
+LA  - eng
+CRDT- 2017/04/20 06:00
+DCOM- 20170509
+LR  - 20170509
+PG  - e6560
+TI  - The role of renoscintigraphy and surgery in the management of Page kidney:
+      A case report.
+PL  - United States
+TA  - Medicine (Baltimore)
+JID - 2985248R
+AB  - RATIONALE: Page kidney is an uncommon condition that hypertension occurs
+      secondary to microvascular ischemia and alternation of small-vessel hemodynamics
+      due to external compression of renal parenchyma and activation of the
+      renin-angiotensin-aldosterone system. There are no specific guidelines
+      for the management of Page kidney in the literatures. PATIENT CONCERNS:
+      A 17-year-old teenager who had Fontan procedure for tricuspid and pulmonary
+      atresia in early childhood suffered from sudden onset of severe left flank
+      pain during cardiac catheterization procedure. Left renal artery active
+      bleeding with renal parenchyma compression in association with renin-mediated
+      hypertension led to the diagnosis of Page kidney. DIAGNOSES: Page kidney
+      was diagnosed in this case. INTERVENTIONS: Urgent embolization was performed
+      to treat left renal artery active bleeding. Because of decreased renal
+      function with elevation of serum creatinine, inadequate blood pressure
+      control with antihypertensive medication, and poor renal blood flow of
+      left kidney, open drainage of perirenal hematoma was done 5 days after
+      catheterization procedure. OUTCOMES: After the operation, glomerular filtration
+      rate improved immediately, and left flank pain and hypertension resolved
+      at discharge. LESSONS: The choice of the therapies for Page kidney depended
+      on the clinical presentation of each case. This case pointed out the significance
+      of renoscintigraphy and surgery in the management of Page kidney.
+AD  - aDepartment of Nuclear Medicine bSection of Pediatric Surgery, Department of Surgery, Kaohsiung Veterans General Hospital, Taiwan.
+VI  - 96
+IS  - 1536-5964 (Electronic) 0025-7974 (Linking)
+PMC - PMC5406058
+AU  - Chiu YL
+AU  - Hu C
+AU  - Lee SD
+AU  - Chen PY
+AU  - Wang CP
+MHDA- 2017/05/10 06:00
+MH  - Adolescent
+MH  - Blood Pressure
+MH  - Cardiac Catheterization/adverse effects
+MH  - Drainage/*methods
+MH  - Fontan Procedure
+MH  - Humans
+MH  - Hypertension/*etiology
+MH  - Kidney Diseases/*complications/diagnosis/etiology/*surgery
+MH  - Male
+MH  - Pulmonary Atresia/surgery
+MH  - Renal Artery/pathology
+MH  - Tricuspid Atresia/surgery
+EDAT- 2017/04/20 06:00
+SO  - Medicine (Baltimore). 2017 Apr;96(16):e6560. doi: 10.1097/MD.0000000000006560.
+SB  - AIM IM
+PMID- 28422842
+OT  - ICD10CM:I10-I15
+OT  - ICD10CM:N28.9
+OT  - ICD10CM:I07.9
+PST - ppublish
+
+LID - 10.1097/MD.0000000000006353 [doi]
+STAT- MEDLINE
+IP  - 16
+JT  - Medicine
+DA  - 20170419
+AID - 10.1097/MD.0000000000006353 [doi]
+AID - 00005792-201704210-00008 [pii]
+FAU - Kim, Eunju
+FAU - Choi, Seo-Won
+FAU - Min, Daniel
+FAU - Kim, Sang Hoon
+FAU - Yang, Woo-In
+FAU - Moon, Jae Youn
+FAU - Sung, Jung Hoon
+FAU - Kim, In Jai
+FAU - Lim, Sang-Wook
+FAU - Cha, Dong-Hun
+FAU - Moon, Byung
+FAU - Cho, Sang-Ho
+FAU - Kim, Won-Jang
+DP  - 2017 Apr
+OWN - NLM
+PT  - Case Reports
+PT  - Journal Article
+LA  - eng
+CRDT- 2017/04/20 06:00
+DCOM- 20170501
+LR  - 20170501
+PG  - e6353
+TI  - A case of a resected benign myxoma-like hemorrhagic cyst, which later
+      recurred as undifferentiated pleomorphic sarcoma in the left atrium.
+PL  - United States
+TA  - Medicine (Baltimore)
+JID - 2985248R
+AB  - RATIONALE: An intracardiac cystic mass is a rare type of mass found in
+      the left atrium. The differential diagnosis of an intracardiac cystic
+      mass includes hydatid cysts, bronchogenic cysts, intracardiac varices,
+      and hemorrhages in some tumor types, including myxoma. PATIENT CONCERNS:
+      We present the case of a 68-year-old woman who presented with episodic
+      dyspnea. DIAGNOSES-INTERVENTIONS-OUTCOMES: Transthoracic echocardiography
+      (TTE) revealed the presence of a left atrial mass mimicking myxoma. However,
+      in postoperative findings, it was determined that the mass was actually
+      a hemorrhagic cyst. Eighteen months later, the patient presented with
+      recurrent exertional dyspnea and TTE revealed the recurrence of a left
+      atrial mass. Computed tomography showed that the mass extended into the
+      right atrium, inferior vena cava, and coronary sinus. After re-operation,
+      the final histological diagnosis was determined to be an undifferentiated
+      pleomorphic sarcoma in the left atrium. LESSONS: An intracardiac hemorrhagic
+      cyst was suspected during the operation of a benign-looking LA mass. As
+      such, we recommend that other rare etiologies be considered and more biopsies
+      be performed when possible.
+AD  - aDepartment of Cardiology bDepartment of Cardiothoracic Surgery cDepartment of Pathology, CHA Bundang Medical Center, CHA University School of Medicine, Seongnam, Seongnam-si, Gyeonngi-do, Korea.
+VI  - 96
+IS  - 1536-5964 (Electronic) 0025-7974 (Linking)
+PMC - PMC5406043
+AU  - Kim E
+AU  - Choi SW
+AU  - Min D
+AU  - Kim SH
+AU  - Yang WI
+AU  - Moon JY
+AU  - Sung JH
+AU  - Kim IJ
+AU  - Lim SW
+AU  - Cha DH
+AU  - Moon B
+AU  - Cho SH
+AU  - Kim WJ
+MHDA- 2017/05/02 06:00
+MH  - Aged
+MH  - Diagnosis, Differential
+MH  - Echocardiography
+MH  - Female
+MH  - Heart Atria/diagnostic imaging/surgery
+MH  - Heart Neoplasms/*diagnosis/diagnostic imaging/*pathology/surgery
+MH  - Humans
+MH  - Myxoma/*diagnosis/diagnostic imaging/pathology/surgery
+MH  - Neoplasm Recurrence, Local/*diagnosis/pathology/surgery
+MH  - Reoperation
+MH  - Sarcoma/*diagnosis/diagnostic imaging/pathology/surgery
+MH  - Tomography, X-Ray Computed
+EDAT- 2017/04/20 06:00
+SO  - Medicine (Baltimore). 2017 Apr;96(16):e6353. doi: 10.1097/MD.0000000000006353.
+SB  - AIM IM
+PMID- 28422827
+OT  - ICD10CM:C38.0
+OT  - ICD10CM:C49
+PST - ppublish
+
+LID - 10.1111/1751-2980.12474 [doi]
+STAT- Publisher
+DEP - 20170419
+CI  - This article is protected by copyright. All rights reserved.
+DA  - 20170419
+AID - 10.1111/1751-2980.12474 [doi]
+CRDT- 2017/04/20 06:00
+DP  - 2017 Apr 19
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Das, Somak
+FAU - Swain, Sudeepta Kumar
+FAU - Ramamurthy, Anand
+JT  - Journal of digestive diseases
+LR  - 20170419
+TI  - Hepatic Infarction From Portal Vein Thrombosis - A Fatal Consequence of
+      Acute Pancreatitis.
+PL  - Australia
+TA  - J Dig Dis
+JID - 101302699
+AB  - Acute pancreatitis is potentially fatal and in its severe form is often
+      associated with pancreatic necrosis and higher mortality. The inflammatory
+      response causes peripancreatic and pancreatic necrosis, and in severe
+      cases results in multiple organ damage through vascular insult either
+      in form of arterial spasm, arterial thrombosis or splanchnic thrombosis
+      [1].
+AD  - Division of Surgical Gastroenterology, School of Digestive and Liver Diseases, Institute of Postgraduate Medical Education and Research, Kolkata, India, 700020. Surgical Gastroenterology, Apollo Hospital, Chennai, India, 600006. Surgical Gastroenterology, Apollo Hospital, Chennai, India, 600006.
+PHST- 2017/04/01 [received]
+PHST- 2017/04/13 [accepted]
+IS  - 1751-2980 (Electronic) 1751-2972 (Linking)
+AU  - Das S
+AU  - Swain SK
+AU  - Ramamurthy A
+MHDA- 2017/04/20 06:00
+AUID- ORCID: http://orcid.org/0000-0002-7066-2128
+EDAT- 2017/04/20 06:00
+SO  - J Dig Dis. 2017 Apr 19. doi: 10.1111/1751-2980.12474.
+PMID- 28421699
+PST - aheadofprint
+
+LID - 10.3928/23258160-20170329-09 [doi]
+STAT- MEDLINE
+IP  - 4
+JT  - Ophthalmic surgery, lasers & imaging retina
+JID - 101599215
+DA  - 20170418
+AID - 10.3928/23258160-20170329-09 [doi]
+FAU - Mucciolo, Dario Pasquale
+FAU - Sodi, Andrea
+FAU - Murro, Vittoria
+FAU - Virgili, Gianni
+FAU - Rizzo, Stanislao
+DP  - 2017 Apr 01
+OWN - NLM
+PT  - Case Reports
+PT  - Journal Article
+LA  - eng
+CRDT- 2017/04/19 06:00
+DCOM- 20170502
+LR  - 20170502
+PG  - 340-344
+TI  - A Nine-Year Follow-Up of Macular Complications in Retinitis Pigmentosa
+      and Diabetes Mellitus.
+PL  - United States
+TA  - Ophthalmic Surg Lasers Imaging Retina
+CI  - Copyright 2017, SLACK Incorporated.
+AB  - The authors report a 9-year follow-up of macular complications in a 66-year-old
+      woman affected with retinitis pigmentosa (RP) and type 2 diabetes mellitus.
+      Rarely, clinical signs of diabetic retinopathy are presented in a patient
+      with retinal dystrophy. This patient developed a bilateral diabetic macular
+      edema (DME), which made its management complex due to the multiple pathogenic
+      processes involved. Despite the chronicity of the DME, visual acuity remained
+      stable without therapy. To the authors' knowledge, this is the first report
+      of DME in RP with such a long follow-up. [Ophthalmic Surg Lasers Imaging
+      Retina. 2017;48:340-344.].
+VI  - 48
+IS  - 2325-8179 (Electronic) 2325-8160 (Linking)
+AU  - Mucciolo DP
+AU  - Sodi A
+AU  - Murro V
+AU  - Virgili G
+AU  - Rizzo S
+MHDA- 2017/05/04 06:00
+PHST- 2016/06/28 [received]
+PHST- 2016/12/12 [accepted]
+MH  - Aged
+MH  - Diabetes Mellitus, Type 2/*complications
+MH  - Diabetic Retinopathy/*complications/diagnosis
+MH  - Disease Progression
+MH  - Female
+MH  - Fluorescein Angiography
+MH  - Follow-Up Studies
+MH  - Fundus Oculi
+MH  - Humans
+MH  - Macula Lutea/*pathology
+MH  - Macular Edema/diagnosis/*etiology
+MH  - Retinitis Pigmentosa/*complications/diagnosis
+MH  - Time Factors
+MH  - Tomography, Optical Coherence
+MH  - *Visual Acuity
+EDAT- 2017/04/19 06:00
+SO  - Ophthalmic Surg Lasers Imaging Retina. 2017 Apr 1;48(4):340-344. doi: 10.3928/23258160-20170329-09.
+SB  - IM
+PMID- 28419400
+OT  - ICD10CM:E11
+OT  - ICD10CM:H35.5
+OT  - ICD10CM:H35.81
+OT  - ICD10CM:H35.52
+PST - ppublish
+
+LID - 10.1111/hdi.12566 [doi]
+STAT- Publisher
+DEP - 20170418
+CI  - (c) 2017 International Society for Hemodialysis.
+DA  - 20170418
+AID - 10.1111/hdi.12566 [doi]
+CRDT- 2017/04/19 06:00
+DP  - 2017 Apr 18
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Shu, Ying
+FAU - Yu, Shaobin
+FAU - Zha, Ling
+FAU - Fu, Ping
+FAU - Cui, Tianlei
+JT  - Hemodialysis international. International Symposium on Home Hemodialysis
+LR  - 20170419
+TI  - Catheter-related fungal endocarditis caused by Candida parapsilosis in
+      a hemodialysis patient.
+PL  - Canada
+TA  - Hemodial Int
+JID - 101093910
+AB  - Fungal endocarditis (FE) is commonly regarded as a rare but fatal disease.
+      The incidence of infective endocarditis (IE) in hemodialysis (HD) patients
+      is thought to be obviously higher than that in the general population.
+      Moreover, IE occurs more likely in HD patients with catheters. With the
+      increase of HD population and extensive use of catheters in HD patients,
+      FE, as a special form of IE, may increase and bring new challenges to
+      clinicians. We reported a case of FE associated with catheter infection
+      in a 44-year-old woman on HD. The risk factors and treatment strategies
+      of FE in HD patients were discussed.
+AD  - Department of Nephrology, Kidney Research Institution, West China Hospital of Sichuan University, Chengdu, Sichuan, China. Department of Nephrology, Kidney Research Institution, West China Hospital of Sichuan University, Chengdu, Sichuan, China. Department of Nephrology, Kidney Research Institution, West China Hospital of Sichuan University, Chengdu, Sichuan, China. Department of Nephrology, Kidney Research Institution, West China Hospital of Sichuan University, Chengdu, Sichuan, China. Department of Nephrology, Kidney Research Institution, West China Hospital of Sichuan University, Chengdu, Sichuan, China. Department of Intervention Medicine, West China Hospital of Sichuan University, Chengdu, Sichuan, China.
+IS  - 1542-4758 (Electronic) 1492-7535 (Linking)
+AU  - Shu Y
+AU  - Yu S
+AU  - Zha L
+AU  - Fu P
+AU  - Cui T
+MHDA- 2017/04/19 06:00
+OTO - NOTNLM
+EDAT- 2017/04/19 06:00
+SO  - Hemodial Int. 2017 Apr 18. doi: 10.1111/hdi.12566.
+PMID- 28418628
+OT  - Hemodialysis
+OT  - catheter
+OT  - fungal endocarditis
+OT  - infective endocarditis
+PST - aheadofprint
+
+LID - E804 [pii] 10.3390/ijms18040804 [doi]
+STAT- In-Process
+IP  - 4
+DEP - 20170412
+DA  - 20170418
+AID - ijms18040804 [pii]
+AID - 10.3390/ijms18040804 [doi]
+CRDT- 2017/04/19 06:00
+DP  - 2017 Apr 12
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Sabatino, Rocco
+FAU - Perrone, Antonio
+FAU - Cuomo, Marco
+FAU - Liotti, Sandra
+FAU - Barchiesi, Vittoria
+FAU - Cantile, Monica
+FAU - Cavalcanti, Ernesta
+JT  - International journal of molecular sciences
+LR  - 20170507
+TI  - Analytical Criticalities Associated to Different Immunological Methods
+      for Serum Free Light Chain Detection in Plasma Cell Dyscrasias: A Description
+      of Particular Clinical Cases.
+PL  - Switzerland
+TA  - Int J Mol Sci
+JID - 101092791
+AB  - Current criteria for differential diagnosis of multiple myeloma (MM),
+      Monoclonal gammopathy of undetermined significance (MGUS), and smoldering
+      multiple myeloma (SMM) are included in the 2003 guidelines by the International
+      Myeloma Working Group (IMWG). An updated version was then published in
+      2014, highlighting the importance of serum free light chain (sFLC) detection,
+      as well as the kappa/lambda ratio as excellent indicators of clonality.
+      At present, two commercial assays for sFLC quantification are available:
+      the Freelite assay and the N-Latex assay. The first was developed by The
+      Binding Site based on a mixture of polyclonal antibodies directed against
+      a variety of FLC epitopes. It may be run on a wide range of nephelometers,
+      as well as on turbidimeters. The second method was developed by Siemens
+      and runs exclusively on Siemens instruments. It employs a probe mixture
+      of mouse monoclonal antibodies. The aim of our study was to evaluate sFLC
+      measurement and calculated kappa/lambda ratio in 85 patients with monoclonal
+      gammopathies (MGs) in order to compare methods. We demonstrated that there
+      is only a moderate concordance between the two FLC assays. In particular,
+      in one case, we observed no qualitative alterations of the serum protein
+      pattern, and in the absence of a Freelite assay, sFLC measurement would
+      not have been possible to highlight the increase of lambda FLC.
+AD  - Division of Laboratory Medicine, Department of Pathology and Laboratory Diagnostics, Istituto Nazionale Tumori "Fondazione G. Pascale", IRCCS, Naples 80131, Italy. roc.sabatino@gmail.com. Division of Laboratory Medicine, Department of Pathology and Laboratory Diagnostics, Istituto Nazionale Tumori "Fondazione G. Pascale", IRCCS, Naples 80131, Italy. perrone.antonio85@gmail.com. Division of Laboratory Medicine, Department of Pathology and Laboratory Diagnostics, Istituto Nazionale Tumori "Fondazione G. Pascale", IRCCS, Naples 80131, Italy. m.cuomo@istitutotumori.na.it. Division of Laboratory Medicine, Department of Pathology and Laboratory Diagnostics, Istituto Nazionale Tumori "Fondazione G. Pascale", IRCCS, Naples 80131, Italy. s.liotti@istitutotumori.na.it. Division of Laboratory Medicine, Department of Pathology and Laboratory Diagnostics, Istituto Nazionale Tumori "Fondazione G. Pascale", IRCCS, Naples 80131, Italy. v.barchiesi@istitutotumori.na.it. Pathology Unit, Department of Pathology and Laboratory Diagnostics, Istituto Nazionale Tumori "Fondazione G. Pascale", IRCCS, Naples 80131, Italy. m.cantile@istitutotumori.na.it. Division of Laboratory Medicine, Department of Pathology and Laboratory Diagnostics, Istituto Nazionale Tumori "Fondazione G. Pascale", IRCCS, Naples 80131, Italy. e.cavalcanti@istitutotumori.na.it.
+VI  - 18
+IS  - 1422-0067 (Electronic) 1422-0067 (Linking)
+PMC - PMC5412388
+AU  - Sabatino R
+AU  - Perrone A
+AU  - Cuomo M
+AU  - Liotti S
+AU  - Barchiesi V
+AU  - Cantile M
+AU  - Cavalcanti E
+MHDA- 2017/04/19 06:00
+PHST- 2017/01/24 [received]
+PHST- 2017/04/03 [revised]
+PHST- 2017/04/05 [accepted]
+OTO - NOTNLM
+EDAT- 2017/04/19 06:00
+SO  - Int J Mol Sci. 2017 Apr 12;18(4). pii: E804. doi: 10.3390/ijms18040804.
+PMID- 28417905
+OT  - multiple myeloma
+OT  - plasma cell dyscrasias
+OT  - serum free light chains
+PST - epublish
+
+LID - 10.1002/ccd.27068 [doi]
+STAT- Publisher
+DEP - 20170418
+CI  - (c) 2017 Wiley Periodicals, Inc.
+DA  - 20170418
+AID - 10.1002/ccd.27068 [doi]
+CRDT- 2017/04/19 06:00
+DP  - 2017 Apr 18
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Herrmann, Howard C
+FAU - Szeto, Wilson Y
+FAU - Litt, Harold
+FAU - Vernick, William
+JT  - Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography & Interventions
+LR  - 20170419
+TI  - Novel use of perfusion balloon inflation to avoid outflow tract obstruction
+      during transcatheter mitral valve-in-valve replacement.
+PL  - United States
+TA  - Catheter Cardiovasc Interv
+JID - 100884139
+AB  - Left ventricular outflow tract (LVOT) obstruction is a recognized complication
+      of transcatheter mitral valve-in-valve replacement in previous surgical
+      prostheses. We describe a patient who was high risk for repeat open surgery
+      in whom the LVOT was compromised by a surgical strut and the potential
+      for LVOT obstruction. A novel approach to avoiding this complication was
+      utilized. A perfusion balloon was inflated in the outflow tract to provide
+      an opposing force during mitral valve deployment resulting in less flaring
+      of the strut into the outflow tract thereby improving the neo-LVOT area.
+      No outflow tract obstruction occurred. The advantages of this approach
+      as well as other alternative solutions to this problem are discussed.
+      (c) 2017 Wiley Periodicals, Inc.
+AD  - University of Pennsylvania, Philadelphia, Pennsylvania. University of Pennsylvania, Philadelphia, Pennsylvania. University of Pennsylvania, Philadelphia, Pennsylvania. University of Pennsylvania, Philadelphia, Pennsylvania.
+PHST- 2017/03/10 [received]
+PHST- 2017/03/19 [accepted]
+IS  - 1522-726X (Electronic) 1522-1946 (Linking)
+AU  - Herrmann HC
+AU  - Szeto WY
+AU  - Litt H
+AU  - Vernick W
+MHDA- 2017/04/19 06:00
+AUID- ORCID: http://orcid.org/0000-0003-3322-9568
+OTO - NOTNLM
+EDAT- 2017/04/19 06:00
+SO  - Catheter Cardiovasc Interv. 2017 Apr 18. doi: 10.1002/ccd.27068.
+PMID- 28417602
+OT  - hemodynamics
+OT  - interventional devices/innovation
+OT  - mitral valve disease
+OT  - percutaneous intervention
+OT  - transcatheter valve implantation
+PST - aheadofprint
+
+LID - e003560 [pii] 10.1161/CIRCEP.115.003560 [doi]
+STAT- MEDLINE
+IP  - 4
+JT  - Circulation. Arrhythmia and electrophysiology
+JID - 101474365
+DA  - 20170414
+AID - CIRCEP.115.003560 [pii]
+AID - 10.1161/CIRCEP.115.003560 [doi]
+FAU - Yang, Zhenjiang
+FAU - Prinsen, Joseph K
+FAU - Bersell, Kevin R
+FAU - Shen, Wangzhen
+FAU - Yermalitskaya, Liudmila
+FAU - Sidorova, Tatiana
+FAU - Luis, Paula B
+FAU - Hall, Lynn
+FAU - Zhang, Wei
+FAU - Du, Liping
+FAU - Milne, Ginger
+FAU - Tucker, Patrick
+FAU - George, Alfred L Jr
+FAU - Campbell, Courtney M
+FAU - Pickett, Robert A
+FAU - Shaffer, Christian M
+FAU - Chopra, Nagesh
+FAU - Yang, Tao
+FAU - Knollmann, Bjorn C
+FAU - Roden, Dan M
+FAU - Murray, Katherine T
+DP  - 2017 Apr
+GR  - R01 HL049989/HL/NHLBI NIH HHS/United States
+GR  - T32 GM007569/GM/NIGMS NIH HHS/United States
+GR  - U19 HL065962/HL/NHLBI NIH HHS/United States
+GR  - U01 HL065962/HL/NHLBI NIH HHS/United States
+GR  - R01 HL096844/HL/NHLBI NIH HHS/United States
+GR  - R01 HL133127/HL/NHLBI NIH HHS/United States
+GR  - T32 GM007347/GM/NIGMS NIH HHS/United States
+GR  - R21 HL108037/HL/NHLBI NIH HHS/United States
+GR  - F30 HL127962/HL/NHLBI NIH HHS/United States
+OWN - NLM
+PT  - Case Reports
+PT  - Journal Article
+LA  - eng
+CRDT- 2017/04/15 06:00
+DCOM- 20170424
+LR  - 20170424
+TI  - Azithromycin Causes a Novel Proarrhythmic Syndrome.
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Calcium Channel Blockers)
+RN  - 0 (Calcium Channels, L-Type)
+RN  - 0 (KCNE1 protein, human)
+RN  - 0 (KCNJ2 protein, human)
+RN  - 0 (KCNQ1 Potassium Channel)
+RN  - 0 (KCNQ1 protein, human)
+RN  - 0 (NAV1.5 Voltage-Gated Sodium Channel)
+RN  - 0 (Potassium Channel Blockers)
+RN  - 0 (Potassium Channels, Inwardly Rectifying)
+RN  - 0 (Potassium Channels, Voltage-Gated)
+RN  - 0 (SCN5A protein, human)
+RN  - 0 (Scn5a protein, mouse)
+RN  - 0 (Sodium Channel Blockers)
+RN  - 83905-01-5 (Azithromycin)
+PMCR- 2018/04/01
+PL  - United States
+TA  - Circ Arrhythm Electrophysiol
+CI  - (c) 2017 American Heart Association, Inc.
+AB  - BACKGROUND: The widely used macrolide antibiotic azithromycin increases
+      risk of cardiovascular and sudden cardiac death, although the underlying
+      mechanisms are unclear. Case reports, including the one we document here,
+      demonstrate that azithromycin can cause rapid, polymorphic ventricular
+      tachycardia in the absence of QT prolongation, indicating a novel proarrhythmic
+      syndrome. We investigated the electrophysiological effects of azithromycin
+      in vivo and in vitro using mice, cardiomyocytes, and human ion channels
+      heterologously expressed in human embryonic kidney (HEK 293) and Chinese
+      hamster ovary (CHO) cells. METHODS AND RESULTS: In conscious telemetered
+      mice, acute intraperitoneal and oral administration of azithromycin caused
+      effects consistent with multi-ion channel block, with significant sinus
+      slowing and increased PR, QRS, QT, and QTc intervals, as seen with azithromycin
+      overdose. Similarly, in HL-1 cardiomyocytes, the drug slowed sinus automaticity,
+      reduced phase 0 upstroke slope, and prolonged action potential duration.
+      Acute exposure to azithromycin reduced peak SCN5A currents in HEK cells
+      (IC50=110+/-3 mumol/L) and Na+ current in mouse ventricular myocytes.
+      However, with chronic (24 hour) exposure, azithromycin caused a approximately
+      2-fold increase in both peak and late SCN5A currents, with findings confirmed
+      for INa in cardiomyocytes. Mild block occurred for K+ currents representing
+      IKr (CHO cells expressing hERG; IC50=219+/-21 mumol/L) and IKs (CHO cells
+      expressing KCNQ1+KCNE1; IC50=184+/-12 mumol/L), whereas azithromycin suppressed
+      L-type Ca++ currents (rabbit ventricular myocytes, IC50=66.5+/-4 mumol/L)
+      and IK1 (HEK cells expressing Kir2.1, IC50=44+/-3 mumol/L). CONCLUSIONS:
+      Chronic exposure to azithromycin increases cardiac Na+ current to promote
+      intracellular Na+ loading, providing a potential mechanistic basis for
+      the novel form of proarrhythmia seen with this macrolide antibiotic.
+AD  - From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. From the Department of Medicine and Department of Pharmacology, Vanderbilt University School of Medicine, Nashville, TN. kathy.murray@vanderbilt.edu.
+VI  - 10
+IS  - 1941-3084 (Electronic) 1941-3084 (Linking)
+PMC - PMC5396181
+MID - NIHMS859126
+AU  - Yang Z
+AU  - Prinsen JK
+AU  - Bersell KR
+AU  - Shen W
+AU  - Yermalitskaya L
+AU  - Sidorova T
+AU  - Luis PB
+AU  - Hall L
+AU  - Zhang W
+AU  - Du L
+AU  - Milne G
+AU  - Tucker P
+AU  - George AL Jr
+AU  - Campbell CM
+AU  - Pickett RA
+AU  - Shaffer CM
+AU  - Chopra N
+AU  - Yang T
+AU  - Knollmann BC
+AU  - Roden DM
+AU  - Murray KT
+MHDA- 2017/04/25 06:00
+PHST- 2015/09/03 [received]
+PHST- 2017/01/26 [accepted]
+OTO - NOTNLM
+MH  - Action Potentials
+MH  - Animals
+MH  - Anti-Bacterial Agents/*toxicity
+MH  - Arrhythmias, Cardiac/*chemically induced/metabolism/physiopathology
+MH  - Azithromycin/*toxicity
+MH  - CHO Cells
+MH  - Calcium Channel Blockers/toxicity
+MH  - Calcium Channels, L-Type/drug effects/genetics/metabolism
+MH  - Cricetulus
+MH  - Dose-Response Relationship, Drug
+MH  - Electrocardiography, Ambulatory
+MH  - Female
+MH  - HEK293 Cells
+MH  - Heart Rate/*drug effects
+MH  - Humans
+MH  - KCNQ1 Potassium Channel/antagonists & inhibitors/genetics/metabolism
+MH  - Mice, Inbred C57BL
+MH  - Myocytes, Cardiac/*drug effects/metabolism
+MH  - NAV1.5 Voltage-Gated Sodium Channel/drug effects/genetics/metabolism
+MH  - Potassium Channel Blockers/toxicity
+MH  - Potassium Channels, Inwardly Rectifying/antagonists & inhibitors/genetics/metabolism
+MH  - Potassium Channels, Voltage-Gated/antagonists & inhibitors/genetics/metabolism
+MH  - Rabbits
+MH  - Sodium Channel Blockers/toxicity
+MH  - Telemetry
+MH  - Time Factors
+MH  - Transfection
+MH  - Young Adult
+EDAT- 2017/04/15 06:00
+SO  - Circ Arrhythm Electrophysiol. 2017 Apr;10(4). pii: e003560. doi: 10.1161/CIRCEP.115.003560.
+SB  - IM
+PMID- 28408648
+OT  - *calcium channel
+OT  - *mice
+OT  - *pharmacology
+OT  - *potassium channels
+OT  - *sodium channels
+PST - ppublish
+
+STAT- In-Data-Review
+IP  - 12
+JT  - The Journal of the Association of Physicians of India
+CI  - (c) Journal of the Association of Physicians of India 2011.
+DA  - 20170413
+CRDT- 2017/04/14 06:00
+DP  - 2016 Dec
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Singh, Rambabu
+FAU - Nath, Kshitiz
+FAU - Archana
+LR  - 20170413
+PG  - 80-81
+TI  - Recurrent Ventricular Tachycardia Due to Long QT Syndrome.
+PL  - India
+TA  - J Assoc Physicians India
+JID - 7505585
+AB  - Long QT syndrome (LQTS) is a rare inherited heart condition in which delayed
+      repolarization of the heart following a heartbeat, increases the risk
+      of episodes of Torsades de pointes (TdP, a form of irregular heartbeat
+      that originates from the ventricles). These episodes may lead to palpitations,
+      fainting, and sudden death due to ventricular fibrillation. Episodes may
+      be provoked by various stimuli, depending on the subtype of the condition.
+      We are reporting a case of 37 years old male whom we diagnosed to have
+      long QT syndrome on the basis of clinical and ECG findings.
+AD  - Lecturer, Department of Medicine, MLB Medical College, Jhansi, Uttar Pradesh. Lecturer, Department of Medicine, MLB Medical College, Jhansi, Uttar Pradesh. Lecturer, Department of Medicine, MLB Medical College, Jhansi, Uttar Pradesh.
+VI  - 64
+IS  - 0004-5772 (Print) 0004-5772 (Linking)
+AU  - Singh R
+AU  - Nath K
+AU  - Archana
+MHDA- 2017/04/14 06:00
+EDAT- 2017/04/14 06:00
+SO  - J Assoc Physicians India. 2016 Dec;64(12):80-81.
+PMID- 28405995
+PST - ppublish
+
+LID - 10.1186/s12879-017-2391-z [doi]
+STAT- MEDLINE
+IP  - 1
+DEP - 20170412
+DA  - 20170413
+AID - 10.1186/s12879-017-2391-z [doi]
+AID - 10.1186/s12879-017-2391-z [pii]
+FAU - Chen, Yili
+FAU - Liao, Kang
+FAU - Ai, Lu
+FAU - Guo, Penghao
+FAU - Huang, Han
+FAU - Wu, Zhongwen
+FAU - Liu, Min
+DP  - 2017 Apr 12
+OWN - NLM
+PT  - Case Reports
+PT  - Journal Article
+PT  - Review
+LA  - eng
+CRDT- 2017/04/14 06:00
+DCOM- 20170502
+JT  - BMC infectious diseases
+LR  - 20170502
+PG  - 271
+TI  - Bacteremia caused by Bergeyella zoohelcum in an infective endocarditis
+      patient: case report and review of literature.
+PL  - England
+TA  - BMC Infect Dis
+JID - 100968551
+AB  - BACKGROUND: Bergeyella zoohelcum is an aerobic, Gram-negative bacterium
+      that is frequently isolated from the upper respiratory tract of dogs,
+      cats and other mammals. Clinically, B. zoohelcum has been reported causing
+      cellulitis, tenosynovitis, leg abscess and septicemia, which is closely
+      connected with animal bites. Here we describe a case of bacteremia in
+      an infective endocarditis (IE) patient caused by B. zoohelcum, in China.
+      CASE PRESENTATION: A 27-year-old infective endocarditis woman who had
+      no history of dog bite nor other mammal exposure suffered bacteremia caused
+      by B. zoohelcum. This patient, without evidence of polymicrobial infection,
+      was treated with cefuroxime and had a good outcome. CONCLUSIONS: B. zoolhelcum
+      bacteremia is rarely reported in IE patients. Our report expands the range
+      of known bacterial causes of infective endocarditis.
+AD  - Department of Laboratory Medicine, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, 510080, China. Department of Laboratory Medicine, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, 510080, China. Department of Laboratory Medicine, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, 510080, China. Department of Laboratory Medicine, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, 510080, China. Department of Laboratory Medicine, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, 510080, China. Department of Laboratory Medicine, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, 510080, China. Department of Laboratory Medicine, The First Affiliated Hospital of Sun Yat-sen University, Guangzhou, Guangdong, 510080, China. nancy20151031@163.com.
+VI  - 17
+IS  - 1471-2334 (Electronic) 1471-2334 (Linking)
+PMC - PMC5389159
+AU  - Chen Y
+AU  - Liao K
+AU  - Ai L
+AU  - Guo P
+AU  - Huang H
+AU  - Wu Z
+AU  - Liu M
+MHDA- 2017/05/04 06:00
+PHST- 2016/12/31 [received]
+PHST- 2017/04/07 [accepted]
+OTO - NOTNLM
+MH  - Adult
+MH  - Animals
+MH  - Bacteremia/*microbiology
+MH  - Bites and Stings/complications
+MH  - Cats
+MH  - Cellulitis/microbiology
+MH  - China
+MH  - Dogs
+MH  - Endocarditis, Bacterial/*microbiology
+MH  - Female
+MH  - Gram-Negative Bacteria/classification/genetics/*isolation & purification/physiology
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+EDAT- 2017/04/14 06:00
+SO  - BMC Infect Dis. 2017 Apr 12;17(1):271. doi: 10.1186/s12879-017-2391-z.
+SB  - IM
+PMID- 28403835
+OT  - *Bacteremia
+OT  - *Bergeyella zoohelcum
+OT  - *Infective endocarditis
+OT  - ICD10CM:L03.90
+PST - epublish
+
+LID - 10.1097/MD.0000000000006499 [doi]
+STAT- MEDLINE
+IP  - 15
+JT  - Medicine
+DA  - 20170413
+AID - 10.1097/MD.0000000000006499 [doi]
+AID - 00005792-201704140-00011 [pii]
+FAU - Nakaya, Takeo
+FAU - Hyuga, Taiju
+FAU - Tanaka, Yukichi
+FAU - Kawai, Shina
+FAU - Nakai, Hideo
+FAU - Niki, Toshiro
+FAU - Tanaka, Akira
+DP  - 2017 Apr
+OWN - NLM
+PT  - Case Reports
+PT  - Journal Article
+LA  - eng
+CRDT- 2017/04/14 06:00
+DCOM- 20170428
+LR  - 20170430
+PG  - e6499
+TI  - Renal dysplasia characterized by prominent cartilaginous metaplasia lesions
+      in VACTERL association: A case report.
+RN  - VACTERL association
+PL  - United States
+TA  - Medicine (Baltimore)
+JID - 2985248R
+AB  - BACKGROUND: Renal dysplasia is the most important cause of end-stage renal
+      disease in children. The histopathological characteristic of dysplasia
+      is primitive tubules with fibromuscular disorganization. Renal dysplasia
+      often includes metaplastic cartilage. Metaplastic cartilage in renal dysplasia
+      has been explained as occurring secondary to vesicoureteral reflux (VUR).
+      Additionally, renal dysplasia is observed in renal dysplasia-associated
+      syndromes, which are combinations of multiple developmental malformations
+      and include VACTERL association. CASE PRESENTATION: We observed the following
+      multiple developmental malformations in a 108-day-old male infant during
+      a nephrectomy: a nonfunctioning right kidney with VUR, hemidiaphragmatic
+      eventration, a ventricular septal defect (VSD) with tetralogy of Fallot
+      in the heart, cryptorchidism, and hyperdactylia. These developmental anomalies
+      satisfied the diagnostic criteria for VACTERL association. A surgical
+      specimen of the right nonfunctioning kidney revealed prominent cartilaginous
+      metaplasia in the renal dysplasia with VUR. The densities of the ectopic
+      cartilaginous lesions in this nonfunctioning kidney were extraordinarily
+      high compared with other renal dysplasia cases. Giemsa banding of his
+      genome produced normal results. The patient has not undergone further
+      detailed genomic investigation. CONCLUSION: This case might be a novel
+      type of VACTERL association, that is, renal dysplasia combined with prominent
+      cartilaginous metaplasia, tetralogy of Fallot and VSD of the heart, hemidiaphragmatic
+      eventration, and hyperdactylia.
+AD  - aDepartment of Pathology, Jichi Medical University bDepartment of Pediatric Urology, Children's Medical Center Tochigi and Jichi Medical University, Shimotsuke, Tochigi cDepartment of Pathology, Kanagawa Children's Medical Center, Yokohama, Kanagawa, Japan.
+VI  - 96
+IS  - 1536-5964 (Electronic) 0025-7974 (Linking)
+PMC - PMC5403075
+AU  - Nakaya T
+AU  - Hyuga T
+AU  - Tanaka Y
+AU  - Kawai S
+AU  - Nakai H
+AU  - Niki T
+AU  - Tanaka A
+MHDA- 2017/04/30 06:00
+MH  - Anal Canal/*abnormalities/surgery
+MH  - Cartilage/pathology
+MH  - Esophagus/*abnormalities/surgery
+MH  - Heart Defects, Congenital/*complications/surgery
+MH  - Humans
+MH  - Infant
+MH  - Kidney/*abnormalities/*pathology/surgery
+MH  - Kidney Diseases/genetics/*pathology
+MH  - Limb Deformities, Congenital/*complications/surgery
+MH  - Male
+MH  - Metaplasia
+MH  - Nephrectomy
+MH  - Spine/*abnormalities/surgery
+MH  - Trachea/*abnormalities/surgery
+EDAT- 2017/04/14 06:00
+SO  - Medicine (Baltimore). 2017 Apr;96(15):e6499. doi: 10.1097/MD.0000000000006499.
+SB  - AIM IM
+PMID- 28403078
+OT  - ICD10CM:Q24.9
+OT  - ICD10CM:N28.9
+PST - ppublish
+
+LID - 10.1097/INF.0000000000001510 [doi]
+STAT- MEDLINE
+IP  - 5
+JT  - The Pediatric infectious disease journal
+DA  - 20170413
+AID - 10.1097/INF.0000000000001510 [doi]
+AID - 00006454-201705000-00022 [pii]
+FAU - Ouellette, Christopher P
+FAU - Joshi, Sarita
+FAU - Texter, Karen
+FAU - Jaggi, Preeti
+DP  - 2017 May
+OWN - NLM
+PT  - Case Reports
+PT  - Journal Article
+LA  - eng
+CRDT- 2017/04/14 06:00
+DCOM- 20170420
+LR  - 20170420
+PG  - 516-520
+TI  - Multiorgan Involvement Confounding the Diagnosis of Bartonella henselae
+      Infective Endocarditis in Children With Congenital Heart Disease.
+PL  - United States
+TA  - Pediatr Infect Dis J
+JID - 8701858
+AB  - Two children with congenital heart disease status post surgical correction
+      presented with prolonged constitutional symptoms, hepatosplenomegaly and
+      pancytopenia. Concern for malignancy prompted bone marrow biopsies that
+      were without evidence thereof. In case 1, echocardiography identified
+      a multilobulated vegetation on the conduit valve. In case 2, transthoracic,
+      transesophageal and intracardiac echocardiography were performed and were
+      without evidence of cardiac vegetations; however, pulmonic emboli raised
+      concern for infective endocarditis. Both patients underwent surgical resection
+      of the infected material and had histopathologic evidence of infective
+      endocarditis. Further diagnostics identified elevated cytoplasmic antineutrophil
+      cytoplasmic antibodies and antiproteinase 3 antibodies in addition to
+      acute kidney injury with crescentic glomerulonephritis on renal biopsy.
+      Serologic evidence of infection with Bartonella henselae was observed
+      in both patients. These 2 cases highlight the potential multiorgan involvement
+      that may confound the diagnosis of culture-negative infective endocarditis
+      caused by B. henselae.
+AD  - From the *Division of Infectious Diseases and Immunology, Department of Pediatrics, daggerDivision of Hematology and Oncology, Department of Pediatrics, and double daggerDivision of Cardiology, Department of Pediatrics, Nationwide Children's Hospital, The Ohio State University, Columbus, Ohio.
+VI  - 36
+IS  - 1532-0987 (Electronic) 0891-3668 (Linking)
+AU  - Ouellette CP
+AU  - Joshi S
+AU  - Texter K
+AU  - Jaggi P
+MHDA- 2017/04/21 06:00
+MH  - Adolescent
+MH  - Bartonella henselae/isolation & purification/pathogenicity
+MH  - Cat-Scratch Disease/complications/*diagnosis/pathology
+MH  - Child
+MH  - Echocardiography
+MH  - Endocarditis, Bacterial/complications/*diagnosis/pathology
+MH  - Heart/diagnostic imaging/physiopathology
+MH  - Heart Defects, Congenital/complications/*diagnosis/pathology
+MH  - Hepatomegaly/complications/diagnostic imaging/pathology
+MH  - Humans
+MH  - Liver/diagnostic imaging/pathology
+MH  - Male
+MH  - Pancytopenia/complications/diagnostic imaging/pathology
+MH  - Spleen/diagnostic imaging/pathology
+MH  - Splenomegaly/complications/diagnostic imaging/pathology
+EDAT- 2017/04/14 06:00
+SO  - Pediatr Infect Dis J. 2017 May;36(5):516-520. doi: 10.1097/INF.0000000000001510.
+SB  - IM
+PMID- 28403058
+OT  - ICD10CM:D61.81
+OT  - ICD10CM:A28.1
+OT  - ICD10CM:Q24.9
+PST - ppublish
+
+LID - 10.1056/NEJMicm1613081 [doi]
+STAT- MEDLINE
+IP  - 15
+JT  - The New England journal of medicine
+DA  - 20170413
+AID - 10.1056/NEJMicm1613081 [doi]
+FAU - Kelmenson, Daniel A
+FAU - Hanley, Michael
+DP  - 2017 Apr 13
+OWN - NLM
+PT  - Case Reports
+PT  - Journal Article
+LA  - eng
+CRDT- 2017/04/14 06:00
+DCOM- 20170427
+LR  - 20170427
+PG  - 1460
+TI  - Dyskeratosis Congenita.
+PL  - United States
+TA  - N Engl J Med
+JID - 0255562
+AD  - University of Colorado, Aurora, CO dkelmenson@gmail.com. Denver Health Medical Center, Denver, CO.
+VI  - 376
+IS  - 1533-4406 (Electronic) 0028-4793 (Linking)
+AU  - Kelmenson DA
+AU  - Hanley M
+MHDA- 2017/04/28 06:00
+MH  - Blood Cell Count
+MH  - Dyskeratosis Congenita/*diagnosis
+MH  - Humans
+MH  - Leukoplakia
+MH  - Male
+MH  - Nail Diseases
+MH  - Telomere/ultrastructure
+EDAT- 2017/04/14 06:00
+SO  - N Engl J Med. 2017 Apr 13;376(15):1460. doi: 10.1056/NEJMicm1613081.
+SB  - AIM IM
+PMID- 28402761
+OT  - ICD10CM:L60.9
+PST - ppublish
+
+LID - 10.1111/ped.13261 [doi]
+STAT- Publisher
+DEP - 20170412
+CI  - (c) 2017 Japan Pediatric Society.
+DA  - 20170412
+AID - 10.1111/ped.13261 [doi]
+CRDT- 2017/04/13 06:00
+DP  - 2017 Apr 12
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Fujita, Shuhei
+FAU - Futatani, Takeshi
+FAU - Kubo, Tatsuya
+FAU - Itamochi, Masae
+FAU - Yachi, Yusuke
+FAU - Iwasaki, Hidenori
+FAU - Shimao, Ayako
+FAU - Ina, Shihomi
+FAU - Higashiyama, Hiroyuki
+FAU - Igarashi, Noboru
+FAU - Hatasaki, Kiyoshi
+JT  - Pediatrics international : official journal of the Japan Pediatric Society
+LR  - 20170412
+TI  - Virus myocarditis in a 1-month-old boy presenting as two types of paroxysmal
+      supraventricular tachycardia.
+PL  - Australia
+TA  - Pediatr Int
+JID - 100886002
+AB  - Herein we describe the case of a 1-month-old boy with acute viral myocarditis,
+      who presented with two kinds of paroxysmal supraventricular tachycardia,
+      and who was cured after medical treatment. He was brought to the emergency
+      room with poor feeding due to fever. On the third day of hospitalization,
+      a narrow QRS tachycardia (180-200 beats/min) was detected. Echocardiography
+      showed a high echoic area at the atrial septum around the atrioventricular
+      node. The patient was clinically diagnosed with acute myocarditis. The
+      narrow QRS tachycardia was diagnosed as incessant junctional ectopic tachycardia.
+      The patient was treated with propranolol and landiolol. The frequency
+      of the tachycardia decreased, but a different narrow QRS tachycardia was
+      detected on the 15th day of hospitalization on electrocardiogram (220
+      beats/min), which was ascribed to atrioventricular nodal re-entrant tachycardia.
+      Atenolol was effective for the tachycardia. At 2 years follow up, cardiac
+      function was normal and tachycardia had not recurred.
+AD  - Department of Pediatrics, Toyama Prefectural Central Hospital, Toyama, Japan. Department of Pediatrics, Toyama Prefectural Central Hospital, Toyama, Japan. Department of Pediatrics, Toyama Prefectural Central Hospital, Toyama, Japan. Department of Virology, Toyama Institute of Health, Toyama, Japan. Department of Pediatrics, Toyama Prefectural Central Hospital, Toyama, Japan. Department of Pediatrics, Toyama Prefectural Central Hospital, Toyama, Japan. Department of Pediatrics, Toyama Prefectural Central Hospital, Toyama, Japan. Department of Pediatrics, Toyama Prefectural Central Hospital, Toyama, Japan. Department of Pediatrics, Toyama Prefectural Central Hospital, Toyama, Japan. Department of Pediatrics, Toyama Prefectural Central Hospital, Toyama, Japan. Department of Pediatrics, Toyama Prefectural Central Hospital, Toyama, Japan.
+IS  - 1442-200X (Electronic) 1328-8067 (Linking)
+AU  - Fujita S
+AU  - Futatani T
+AU  - Kubo T
+AU  - Itamochi M
+AU  - Yachi Y
+AU  - Iwasaki H
+AU  - Shimao A
+AU  - Ina S
+AU  - Higashiyama H
+AU  - Igarashi N
+AU  - Hatasaki K
+MHDA- 2017/04/13 06:00
+PHST- 2015/11/05 [received]
+PHST- 2017/01/05 [revised]
+PHST- 2017/02/09 [accepted]
+OTO - NOTNLM
+EDAT- 2017/04/13 06:00
+SO  - Pediatr Int. 2017 Apr 12. doi: 10.1111/ped.13261.
+PMID- 28402006
+OT  - Coxsackie virus B3
+OT  - atrioventricular nodal re-entrant tachycardia
+OT  - infant
+OT  - junctional ectopic tachycardia
+OT  - viral myocarditis
+PST - aheadofprint
+
+LID - 10.1002/ccd.27045 [doi]
+STAT- Publisher
+DEP - 20170411
+CI  - (c) 2017 Wiley Periodicals, Inc.
+DA  - 20170411
+AID - 10.1002/ccd.27045 [doi]
+CRDT- 2017/04/12 06:00
+DP  - 2017 Apr 11
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Ganatra, Sarju
+FAU - Majithia, Arjun
+FAU - Yeh, Yun-Ting Eric
+FAU - Levy, Michael S
+JT  - Catheterization and cardiovascular interventions : official journal of the Society for Cardiac Angiography & Interventions
+LR  - 20170411
+TI  - Intracranial hemorrhage in a patient with sub-massive pulmonary embolism
+      treated with EkoSonic endovascular system directed thrombolysis.
+PL  - United States
+TA  - Catheter Cardiovasc Interv
+JID - 100884139
+AB  - Ultrasound-assisted catheter-directed thrombolysis therapy has emerged
+      more recently as a management strategy for patients with intermediate
+      risk pulmonary embolism and has shown promising results in clinical trials
+      by early reversal of right ventricle dilation, reduced pulmonary hypertension,
+      and decreased anatomic thrombus burden. This therapeutic strategy requires
+      a small fraction of the systemic fibrinolytic dose and is therefore associated
+      with a reduced bleeding risk. Although intracranial hemorrhage has not
+      been reported in clinical trials, it is a possible complication. Here
+      we report the first case of intracranial hemorrhage related to the use
+      of EkoSonic Endovascular System directed thrombolysis in a patient with
+      large bilateral pulmonary embolism without any identifiable bleeding risks.
+      (c) 2017 Wiley Periodicals, Inc.
+AD  - Lahey Hospital & Medical Center, Burlington, Massachusetts. Lahey Hospital & Medical Center, Burlington, Massachusetts. Lahey Hospital & Medical Center, Burlington, Massachusetts. Lahey Hospital & Medical Center, Burlington, Massachusetts.
+PHST- 2016/12/07 [received]
+PHST- 2017/02/04 [revised]
+PHST- 2017/02/25 [accepted]
+IS  - 1522-726X (Electronic) 1522-1946 (Linking)
+AU  - Ganatra S
+AU  - Majithia A
+AU  - Yeh YE
+AU  - Levy MS
+MHDA- 2017/04/12 06:00
+AUID- ORCID: http://orcid.org/0000-0003-0296-6864
+OTO - NOTNLM
+EDAT- 2017/04/12 06:00
+SO  - Catheter Cardiovasc Interv. 2017 Apr 11. doi: 10.1002/ccd.27045.
+PMID- 28398633
+OT  - EKOS
+OT  - EkoSonic endovascular system
+OT  - intracranial hemorrhage
+OT  - pulmonary embolism
+OT  - ultrasound-assisted catheter-directed thrombolysis
+PST - aheadofprint
+
+LID - 10.4103/jpgm.JPGM_441_16 [doi]
+STAT- In-Data-Review
+IP  - 2
+JT  - Journal of postgraduate medicine
+DA  - 20170411
+AID - jpgm_2017_63_2_135_204167 [pii]
+AID - 10.4103/jpgm.JPGM_441_16 [doi]
+CRDT- 2017/04/12 06:00
+DP  - 2017 Apr-Jun
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Gunaseelan, P
+FAU - Suresh, G
+FAU - Raghavan, V
+FAU - Varadarajan, S
+LR  - 20170514
+PG  - 135-137
+TI  - Native valve endocarditis caused by Kocuria rosea complicated by peripheral
+      mycotic aneurysm in an elderly host.
+PL  - India
+TA  - J Postgrad Med
+JID - 2985196R
+AB  - Infective endocarditis still remains a dreaded illness among treating
+      physicians because of the disease course, its need for meticulous antibiotic
+      management, complications, and overall morbidity. Peripheral mycotic aneurysms
+      are a rarely reported complication of infective endocarditis. Mycotic
+      aneurysms occur in about 5%-10% of cases of infective endocarditis, and
+      most of them involve the intracranial vessels. Here, we report a case
+      of native valve endocarditis in a 74-year-old man caused by Kocuria rosea.
+      He presented with septic shock and acute kidney injury. His illness was
+      complicated by a right popliteal artery mycotic aneurysm. He was treated
+      with intravenous ceftriaxone and vancomycin. The mycotic aneurysm needed
+      aneurysmectomy and anastomosis with a graft.
+AD  - Department of Family Medicine, Sundaram Medical Foundation, Chennai, Tamil Nadu, India. Department of General Medicine, Sundaram Medical Foundation, Chennai, Tamil Nadu, India. Department of General Medicine, Sundaram Medical Foundation, Chennai, Tamil Nadu, India. Department of General Medicine, Sundaram Medical Foundation, Chennai, Tamil Nadu, India.
+VI  - 63
+IS  - 0972-2823 (Electronic) 0022-3859 (Linking)
+PMC - PMC5414425
+AU  - Gunaseelan P
+AU  - Suresh G
+AU  - Raghavan V
+AU  - Varadarajan S
+MHDA- 2017/04/12 06:00
+EDAT- 2017/04/12 06:00
+SO  - J Postgrad Med. 2017 Apr-Jun;63(2):135-137. doi: 10.4103/jpgm.JPGM_441_16.
+PMID- 28397739
+PST - ppublish
+
+LID - 10.1177/0003489417693015 [doi]
+STAT- MEDLINE
+IP  - 5
+DEP - 20170301
+DA  - 20170411
+AID - 10.1177/0003489417693015 [doi]
+FAU - Macias, David
+FAU - Kwon, Daniel I
+FAU - Walker, Paul C
+FAU - Peterson, Nathaniel R
+DP  - 2017 May
+OWN - NLM
+PT  - Case Reports
+PT  - Journal Article
+LA  - eng
+CRDT- 2017/04/12 06:00
+DCOM- 20170418
+JT  - The Annals of otology, rhinology, and laryngology
+LR  - 20170418
+PG  - 407-410
+TI  - Local Intraluminal Irrigation With Argatroban During Free Flap Repair
+      in a Patient With Heparin-Induced Thrombocytopenia.
+RN  - 0 (Pipecolic Acids)
+RN  - 0 (Platelet Aggregation Inhibitors)
+RN  - IY90U61Z3S (argatroban)
+PL  - United States
+TA  - Ann Otol Rhinol Laryngol
+JID - 0407300
+AB  - OBJECTIVE: This study describes a case of a successful free flap repair
+      using argatroban for local intraluminal irrigation as a substitute to
+      heparin in a patient with heparin-induced thrombocytopenia. METHODS: Case
+      report and review of literature. RESULTS: The patient had an uneventful
+      postoperative course, and the free flap survived without complications.
+      CONCLUSIONS: The use of argatroban during microvascular surgery is likely
+      to be safe and simple and may be effective in preventing micro-thrombotic
+      complications during microvascular surgery, and it should be considered
+      as an alternative to heparinized saline for local intraluminal irrigation.
+AD  - 1 Loma Linda University School of Medicine, Loma Linda, California, USA. 2 Loma Linda University Medical Center, Department of Otolaryngology, Head & Neck Surgery & Facial Plastic Surgery, Loma Linda, California, USA. 2 Loma Linda University Medical Center, Department of Otolaryngology, Head & Neck Surgery & Facial Plastic Surgery, Loma Linda, California, USA. 2 Loma Linda University Medical Center, Department of Otolaryngology, Head & Neck Surgery & Facial Plastic Surgery, Loma Linda, California, USA.
+VI  - 126
+IS  - 1943-572X (Electronic) 0003-4894 (Linking)
+AU  - Macias D
+AU  - Kwon DI
+AU  - Walker PC
+AU  - Peterson NR
+MHDA- 2017/04/19 06:00
+OTO - NOTNLM
+MH  - *Carcinoma, Squamous Cell/pathology/surgery
+MH  - Female
+MH  - Forearm/surgery
+MH  - Free Tissue Flaps/blood supply
+MH  - *Head and Neck Neoplasms/pathology/surgery
+MH  - Humans
+MH  - Middle Aged
+MH  - *Mouth Neoplasms/pathology/surgery
+MH  - Neck Dissection/*methods
+MH  - Pipecolic Acids/*administration & dosage
+MH  - Platelet Aggregation Inhibitors/administration & dosage
+MH  - Radial Artery/surgery
+MH  - Treatment Outcome
+EDAT- 2017/04/12 06:00
+SO  - Ann Otol Rhinol Laryngol. 2017 May;126(5):407-410. doi: 10.1177/0003489417693015. Epub 2017 Mar 1.
+SB  - AIM IM
+PMID- 28397565
+OT  - *argatroban
+OT  - *free flap reconstruction
+OT  - *head and neck cancer
+OT  - *head and neck reconstruction
+OT  - *head and neck surgery
+OT  - *heparin-induced thrombocytopenia
+OT  - *microsurgery
+OT  - *radial forearm free flap
+PST - ppublish
+
+LID - 10.1111/neup.12383 [doi]
+STAT- Publisher
+DEP - 20170410
+CI  - (c) 2017 Japanese Society of Neuropathology.
+DA  - 20170411
+AID - 10.1111/neup.12383 [doi]
+CRDT- 2017/04/12 06:00
+DP  - 2017 Apr 10
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Takayama, Mio
+FAU - Kashiwagi, Masayuki
+FAU - Hara, Kenji
+FAU - Matsusue, Aya
+FAU - Waters, Brian
+FAU - Ikematsu, Natsuki
+FAU - Kubo, Shin-Ichi
+JT  - Neuropathology : official journal of the Japanese Society of Neuropathology
+LR  - 20170411
+TI  - Basal subarachnoid hemorrhage by rupture of arteriovenous malformation
+      at the cerebellopontine angle.
+PL  - Australia
+TA  - Neuropathology
+JID - 9606526
+AB  - A man in his late forties had lived as a recluse for more than ten years.
+      He was found dead in his room. At autopsy, subarachnoid hemorrhage (SAH)
+      was detected at the base of the brain, which weighed 1333 g. The cerebellar
+      tonsil was swollen. The cerebral ventricle was enlarged and filled with
+      blood. A hematoma was observed in the upper part of the left side of the
+      cerebellar hemisphere. The location and size of SAH in this case indicated
+      that the rupture of a cerebral aneurysm (CA) had occurred; however, CA
+      was not detected. A mass of blood vessels buried in the hematoma was observed
+      at the left cerebellopontine angle (CPA). The vascular lesion showed round-shaped
+      blood vessels as well as flat-shaped vessels with the appearance of veins,
+      but with elastic fibers indicative of arteries. The lesion was considered
+      to be the nidus and was 5-8 mm in size. Feeding arteries appeared to be
+      from the anterior inferior cerebellar artery (AICA). However, the draining
+      vein and anastomotic parts of the artery and vein were not confirmed.
+      Based on these histopathological features, this vascular lesion was diagnosed
+      as arteriovenous malformation (AVM). A differential diagnosis between
+      AVM at CPA and CA is needed in order to identify the source of non-traumatic
+      SAH.
+AD  - Department of Forensic Medicine, Faculty of Medicine, Fukuoka University, Fukuoka, Japan. Department of Forensic Medicine, Faculty of Medicine, Fukuoka University, Fukuoka, Japan. Department of Forensic Medicine, Faculty of Medicine, Fukuoka University, Fukuoka, Japan. Department of Forensic Medicine, Faculty of Medicine, Fukuoka University, Fukuoka, Japan. Department of Forensic Medicine, Faculty of Medicine, Fukuoka University, Fukuoka, Japan. Department of Forensic Medicine, Faculty of Medicine, Fukuoka University, Fukuoka, Japan. Department of Forensic Medicine, Faculty of Medicine, Fukuoka University, Fukuoka, Japan.
+PHST- 2017/01/27 [received]
+PHST- 2017/03/06 [revised]
+PHST- 2017/03/06 [accepted]
+IS  - 1440-1789 (Electronic) 0919-6544 (Linking)
+AU  - Takayama M
+AU  - Kashiwagi M
+AU  - Hara K
+AU  - Matsusue A
+AU  - Waters B
+AU  - Ikematsu N
+AU  - Kubo SI
+MHDA- 2017/04/12 06:00
+AUID- ORCID: http://orcid.org/0000-0003-2141-9321
+OTO - NOTNLM
+EDAT- 2017/04/12 06:00
+SO  - Neuropathology. 2017 Apr 10. doi: 10.1111/neup.12383.
+PMID- 28397378
+OT  - arteriovenous malformation
+OT  - basal subarachnoid hemorrhage
+OT  - cerebellopontine angle
+OT  - cerebral aneurysm
+OT  - forensic autopsy
+PST - aheadofprint
+
+LID - 10.4103/aca.ACA_82_16 [doi]
+STAT- In-Process
+IP  - 2
+JT  - Annals of cardiac anaesthesia
+DA  - 20170410
+AID - AnnCardAnaesth_2017_20_2_259_203962 [pii]
+AID - 10.4103/aca.ACA_82_16 [doi]
+CRDT- 2017/04/11 06:00
+DP  - 2017 Apr-Jun
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Heinke, Timothy
+FAU - Stewart, Scott R
+FAU - Steinberg, Toby
+FAU - Hand, William R
+FAU - Abernathy, James H
+LR  - 20170509
+PG  - 259-261
+TI  - Partial anomalous pulmonary venous return: Scimitar vein.
+PL  - India
+TA  - Ann Card Anaesth
+JID - 9815987
+AB  - Scimitar syndrome is a rare association of congenital cardiopulmonary
+      anomalies characterized by partial anomalous pulmonary venous return,
+      in which an abnormal right pulmonary vein drains into the inferior vena
+      cava. This case exemplifies the role of transesophageal echocardiography
+      in perioperative management and surgical decision-making.
+AD  - Department of Anesthesia and Perioperative Medicine, Medical University of South Carolina, Charleston, SC, USA. Department of Anesthesia and Perioperative Medicine, Medical University of South Carolina, Charleston, SC, USA. Department of Anesthesia and Perioperative Medicine, Medical University of South Carolina, Charleston, SC, USA. Department of Anesthesia and Perioperative Medicine, Medical University of South Carolina, Charleston, SC, USA. Department of Anesthesia and Perioperative Medicine, Medical University of South Carolina, Charleston, SC, USA.
+VI  - 20
+IS  - 0974-5181 (Electronic) 0971-9784 (Linking)
+PMC - PMC5408539
+AU  - Heinke T
+AU  - Stewart SR
+AU  - Steinberg T
+AU  - Hand WR
+AU  - Abernathy JH
+MHDA- 2017/04/11 06:00
+EDAT- 2017/04/11 06:00
+SO  - Ann Card Anaesth. 2017 Apr-Jun;20(2):259-261. doi: 10.4103/aca.ACA_82_16.
+PMID- 28393794
+PST - ppublish
+
+LID - 10.4103/aca.ACA_159_16 [doi]
+STAT- In-Process
+IP  - 2
+JT  - Annals of cardiac anaesthesia
+DA  - 20170410
+AID - AnnCardAnaesth_2017_20_2_256_203932 [pii]
+AID - 10.4103/aca.ACA_159_16 [doi]
+CRDT- 2017/04/11 06:00
+DP  - 2017 Apr-Jun
+OWN - NLM
+PT  - Case Reports
+LA  - eng
+FAU - Bharati, Saswata
+FAU - Sharma, Manish Kumar
+FAU - Chattopadhay, Amitabha
+FAU - Das, Debasis
+LR  - 20170509
+PG  - 256-258
+TI  - Transient cortical blindness following intracardiac repair of congenital
+      heart disease in an 11-year-old boy.
+PL  - India
+TA  - Ann Card Anaesth
+JID - 9815987
+AB  - Postoperative blindness (PB) primarily involves reception and conductance
+      parts of the visual pathway due to ischemia following cessation of blood
+      supply, for example, retinal vascular occlusion. Although a rare cause
+      of PB, cortical blindness (CB), which results from ischemia/infarction
+      of visual cortex, has a poor outcome due to its mostly nonreversible nature.
+      Ischemic optic neuropathy is the most common cause of PB following cardiac
+      surgeries. CB following cardiac surgeries involving cardiopulmonary bypass
+      has been rarely reported. Only a few of those articles reported partial
+      or complete reversal of CB. We report an incidence of transient CB in
+      an 11-year-old child who was operated for double chambered right ventricle
+      with ventricular septal defect.
+AD  - Department of Anaesthesiology, Narayana Superspeciality Hospital, Howrah, Kolkata, West Bengal, India. Department of Anaesthesiology, Narayana Superspeciality Hospital, Howrah, Kolkata, West Bengal, India. Department of Paediatric Cardiology, Narayana Superspeciality Hospital, Howrah, Kolkata, West Bengal, India. Department of Cardiothoracic Surgery, Narayana Superspeciality Hospital, Howrah, Kolkata, West Bengal, India.
+VI  - 20
+IS  - 0974-5181 (Electronic) 0971-9784 (Linking)
+PMC - PMC5408538
+AU  - Bharati S
+AU  - Sharma MK
+AU  - Chattopadhay A
+AU  - Das D
+MHDA- 2017/04/11 06:00
+EDAT- 2017/04/11 06:00
+SO  - Ann Card Anaesth. 2017 Apr-Jun;20(2):256-258. doi: 10.4103/aca.ACA_159_16.
+PMID- 28393793
+PST - ppublish
+
+LID - S0012-3692(16)59255-1 [pii] 10.1016/j.chest.2016.09.013 [doi]
+STAT- MEDLINE
+IP  - 4
+JT  - Chest
+JID - 0231335
+DA  - 20170409
+AID - S0012-3692(16)59255-1 [pii]
+AID - 10.1016/j.chest.2016.09.013 [doi]
+FAU - Tokman, Sofya
+FAU - Smith, Michael A
+FAU - Hashimi, A Samad
+FAU - Omar, Ashraf
+DP  - 2017 Apr
+OWN - NLM
+PT  - Case Reports
+PT  - Journal Article
+LA  - eng
+CRDT- 2017/04/10 06:00
+DCOM- 20170515
+LR  - 20170515
+PG  - e91-e94
+TI  - A 46-Year-Old Man With Dyspnea, Hypoxemia, and Radiographic Asymmetry
+      After Redo Bilateral Lung Transplantation.
+PL  - United States
+TA  - Chest
+CI  - Copyright (c) 2016 American College of Chest Physicians. Published by Elsevier
+CI  - Inc. All rights reserved.
+AB  - CASE PRESENTATION: A 46-year-old man underwent redo bilateral sequential
+      lung transplantation for rapidly progressive bronchiolitis obliterans
+      syndrome that developed 3.5 years after initial transplantation. In the
+      operating room, he was sedated and intubated with a dual lumen endotracheal
+      tube with subsequent single right-lung ventilation and left allograft
+      implantation. His pulmonary arterial pressure became elevated with reperfusion
+      of the newly implanted left lung, which required initiation of cardiopulmonary
+      bypass to facilitate implantation of the right lung. After implantation
+      and reperfusion of the right lung, the patient was weaned from cardiopulmonary
+      bypass. His chest was closed and he was transferred to the thoracic intensive
+      care unit. On arrival to the intensive care unit, the patient was intubated,
+      sedated, and had an oxygen saturation of 92% on a fraction of inspired
+      oxygen of 100%, positive end-expiratory pressure of 10 cm H2O, and 20
+      parts per million of inhaled nitric oxide. He had a Swan-Ganz catheter
+      in the right internal jugular vein that measured a mean pulmonary arterial
+      pressure of 33 mm Hg and a pulmonary arterial systolic pressure of 63
+      mm Hg, which remained persistently elevated and prompted further diagnostic
+      evaluation.
+AD  - Division of Pulmonary and Critical Care Medicine, Norton Thoracic Institute, St. Joseph's Hospital and Medical Center, Phoenix, AZ. Electronic address: Sofya.Tokman@DignityHealth.org. Division of Thoracic Surgery, Norton Thoracic Institute, St. Joseph's Hospital and Medical Center, Phoenix, AZ. Division of Thoracic Surgery, Norton Thoracic Institute, St. Joseph'
