@@ -106,7 +106,3 @@ pca1.1 <- pca_new$x[ , 1]
 pca2.1 <- pca_new$x[ , 2]
 mydf2 <- data.frame(ID = names(pca1.1), PCA1 = pca1.1, PCA2 = pca2.1, Cluster = factor(c$cluster))
 ggplot(mydf2, aes(x = PCA1, y = PCA2, label = ID, color = Cluster)) + geom_point() + geom_text(size = 4, color = "black", vjust = -1) + geom_text_repel(aes(label = ID))
-
-# priyanka's cute sentences
-# well everyone picks someone to love in HS and I chose him
-# it's a 4 unit class. 5 units if you're serious (talking about relationships)
