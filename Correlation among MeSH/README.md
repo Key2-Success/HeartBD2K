@@ -1,4 +1,4 @@
-## **Correlation Among MeSH**
+## **Correlation among MeSH**
 
 ### **Background**
 Each case report is associated with multiple MeSH (MEdical Subject Headings...examples include patient demographics, symptoms, diagnosis, treatments, etc) terms. The goal of this project was to cluster similar MeSH terms to visualize with MeSH terms are related to each other.
