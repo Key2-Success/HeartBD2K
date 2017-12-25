@@ -1,0 +1,2 @@
+## Final Dataset Correlation of MH Parsed
+This code snippet does some statistical analysis! It chooses the most significant MH terms and uses the most distinct (the most distinct being those MH terms with the biggest difference in absolute value of proportion difference between the two genders) ones to create a heat map. Thus, it also creates a heat map of MH terms versus gender as well as a heat map of most distinct MH terms between the two genders.
