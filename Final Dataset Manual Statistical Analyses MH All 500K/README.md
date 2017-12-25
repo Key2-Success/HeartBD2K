@@ -1,0 +1,2 @@
+## Final Dataset Manual Statistical Analyses MH All 500K
+This code has the same functions as Final Dataset Manual Statistical Analyses, except that it does all of its functions on MH terms. Thus, this code creates two separate dataframes for each gender, finds the number of occurrences per gender for all of the 5605 distinct MH terms and their proportions per gender, and also finds the p-value for a 2 proportion z-test.
