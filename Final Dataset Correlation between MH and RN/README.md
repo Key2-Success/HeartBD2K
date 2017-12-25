@@ -1,0 +1,2 @@
+## Final Dataset Correlation between MH and RN
+The code functions of this code are as follows: outputs unique phrases from the dtm, creates PCA coordinates for parsed RN terms via the dtm, and creates a heat map based on the Euclidean distance between the PCA coordinates. The following plots are produced: a PCA plot of the top RN terms (parsed), a heat map of RN terms vs gender, and a heat map of RN terms by gender. 
