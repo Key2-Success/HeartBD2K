@@ -1,0 +1,2 @@
+## MeSH Usage over Categories
+This was a very cool project I did early on. This code finds the occurrences and proportion of a particular word within a category. It then outputs a beautiful barplot that can have new words continuously be added to it which shows the proportion of any word within a category (example "words": aneurysm, stroke, heart attack; example "categories": male, female, child). Thus, the x-axis contains the categories, and there are multiple "words" per each x-axis label. 
