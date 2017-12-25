@@ -1,0 +1,2 @@
+## Final Dataset Correlation of RN All
+This code is similar to Final Dataset Correlation of MH parsed, except that it does all the correlation analysis on RN terms. So, this code snippet does some statistical analysis! It chooses the most significant RN terms and uses the most distinct (the most distinct being those RN terms with the biggest difference in absolute value of proportion difference between the two genders) ones to create a heat map. Thus, it also creates a heat map of RN terms versus gender as well as a heat map of most distinct RN terms between the two genders.
