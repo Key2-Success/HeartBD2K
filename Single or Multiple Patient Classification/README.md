@@ -1,0 +1,2 @@
+## Single or Multiple Patient Classification
+This was a cool task in which I was asked to categorize a case report by identifying it as a single patient or as multiple patients. Instead of using machine learning, I looked into the data and found patterns that made sense to me, as a human, and coded an algorithm for it to determine whether a case report contains 1 or many patients. My accuracy is around 87.5%.
