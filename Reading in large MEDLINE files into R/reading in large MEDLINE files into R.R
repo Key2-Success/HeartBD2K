@@ -1,6 +1,6 @@
 # steps:
-# on line 15, change from where you are reading in your textfile
-# on line 73, change where you want to save the dataframe
+# on line 14, change from where you are reading in your textfile
+# on line 75, change where you want to save the dataframe
 
 
 library(readr)
@@ -13,6 +13,7 @@ library(xlsx)
 # read in raw data
 test <- read_delim(file = "Kitu/College/Junior Year/Extracurriculars/Data Science Research Internship/all_case_reports_May_23_2017_428362_out.txt/all_case_reports_May_23_2017_428362_out.txt", delim = "\n", col_names = FALSE)
 
+# --- run the next few lines only if PMID is not attached to the top of the dataframe
 # shows indices of each PMID
 a <- as.data.frame(which(grepl("^PMID", test$X1)))
 colnames(a) <- "X1"
@@ -27,6 +28,7 @@ test <- test[-a[2, 1], 1] # remove duplicate 1st PMID
 remove(first_pmid)
 remove(a)
 
+# --- resume normal code                                  
 # keep only PMID, MH, RN, PST
 test <- test[substr(test$X1, 1, 4) == "PMID" | substr(test$X1, 1, 2) == "MH" |
                substr(test$X1, 1, 2) == "RN" | substr(test$X1, 1, 3) == "PST", ] # 6 mil
@@ -59,9 +61,9 @@ test <- test %>%
   spread(Variable, Value) 
  
 # clean up dataframe
-test <- test[ , -c(1, 4)]
+test <- test[ , -which(names(test) %in% c("group", "PST"))]
 test <- test[ , c(2, 1, 3)]
-colnames(test) <- c("PMID", "MH", "RN")
+colnames(test) <- c("PMID", "MH", "RN") # rename because names have spaces in them
 #test <- test[complete.cases(test), ] # 132k
 
 # change class
