@@ -1,7 +1,7 @@
 # HeartBD2K
 My side projects from my data science research internship at the HeartBD2K lab at UCLA are contained here.
 
-My two most notable projects to date at this internship have been creating two R Shiny applications: Text Mining Demographics as well as Geographic Data, so I suggest you to check them out! They are contained in their own separate repositories due to their sheer magnitude of importance. These projects contained inside this repository are either side projects that I worked on during my internship or code that led me to creating these two apps.
+My three most notable projects to date at this internship have been creating three R Shiny applications: [Significant Mapping](https://github.com/Key2-Success/HeartBD2K-Significant-Mapping), [Text Mining Demographics](https://github.com/Key2-Success/HeartBD2K-Text-Mining-Demographics), and [Geographic Data](https://github.com/Key2-Success/HeartBD2K-Geographic-Data), so I suggest you to check them out first! They are contained in their own separate repositories due to their sheer magnitude of importance. These projects contained inside this repository are either side projects that I worked on during my internship or code that led me to creating these two apps.
 
 ## Lessons Learned
 I am most thankful to this lab for giving me this opportunity. Without it, I would not have learned these key lessons:
